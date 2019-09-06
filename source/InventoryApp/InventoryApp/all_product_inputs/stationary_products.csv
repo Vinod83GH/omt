@@ -1,0 +1,77 @@
+﻿SL. NO.,Category,SUB-CATEGORY,ITEMS,UOM,CATG.,SUB CATG.,,ITEM,Product Code,Actual Product Code
+1,Stationaries,Bags ,Laptop Sleeves - Small ,NO,S,BG,-,SLEEVXM,SBG-SLEEVXM,CTW-MFCWHT
+2,Stationaries,Bags ,Laptop Sleeves - Big,NO,S,BG,-,SLEEVXL,SBG-SLEEVXL,CTW-MFCWHT
+3,Stationaries,Battery,AA Battery - Duracel,NO,S,BY,-,DBTRYAA,SBY-DBTRYAA,CTW-MFCWHT
+4,Stationaries,Battery,AAA Battery - Duracel,NO,S,BY,-,DBTRYAAA,SBY-DBTRYAAA,CTW-MFCWHT
+5,Stationaries,Battery,9V Battery - Duracel,NO,S,BY,-,DBTRY9V,SBY-DBTRY9V,CTW-MFCWHT
+6,Stationaries,Cartridges & Toners,Canon Ink - GI790,NO,S,CT,-,CIGI790,SCT-CIGI790,CTW-MFCWHT
+7,Stationaries,Cartridges & Toners,Canon Toner - HV 328 (Black),NO,S,CT,-,TR328B,SCT-TR328B,CTW-MFCWHT
+8,Stationaries,Clips & Pins,Binder Clip - 12mm,NO,S,CP,-,BDR12M,SCP-BDR12M,CTW-MFCWHT
+9,Stationaries,Clips & Pins,Binder Clip - 19mm,NO,S,CP,-,BDR19M,SCP-BDR19M,CTW-MFCWHT
+10,Stationaries,Clips & Pins,Binder Clip - 25mm,NO,S,CP,-,BDR25M,SCP-BDR25M,CTW-MFCWHT
+11,Stationaries,Clips & Pins,Binder Clip - 32mm,NO,S,CP,-,BDR32M,SCP-BDR32M,CTW-MFCWHT
+12,Stationaries,Clips & Pins,Gem Clips,NO,S,CP,-,GEMCLP,SCP-GEMCLP,CTW-MFCWHT
+13,Stationaries,Clips & Pins,Soft Board Pins,NO,S,CP,-,BRDPIN,SCP-BRDPIN,CTW-MFCWHT
+14,Stationaries,Envelopes,A4 Envelopes with Adhesive,NO,S,EN,-,A4ENVAD,SEN-A4ENVAD,CTW-MFCWHT
+15,Stationaries,Envelopes,A4 Envelopes with (Logo),NO,S,EN,-,A4ENVLO,SEN-A4ENVLO,CTW-MFCWHT
+16,Stationaries,Envelopes,A4 Envelopes (Green),NO,S,EN,-,A4ENVGN,SEN-A4ENVGN,CTW-MFCWHT
+17,Stationaries,Envelopes,Postal Envelopes (Green),NO,S,EN,-,PSENVGN,SEN-PSENVGN,CTW-MFCWHT
+18,Stationaries,Envelopes,Postal Envelopes (Logo),NO,S,EN,-,PSENVLO,SEN-PSENVLO,CTW-MFCWHT
+19,Stationaries,Files & Folders,Sheet Protector,NO,S,FF,-,SHTPTR,SFF-SHTPTR,CTW-MFCWHT
+20,Stationaries,Files & Folders,L Folder - Transparent,NO,S,FF,-,LFOLDR,SFF-LFOLDR,CTW-MFCWHT
+21,Stationaries,Files & Folders,Plastic Spring File,NO,S,FF,-,SPNGFL,SFF-SPNGFL,CTW-MFCWHT
+22,Stationaries,Files & Folders,File Folder with Sheet Protector,NO,S,FF,-,FLFOLD,SFF-FLFOLD,CTW-MFCWHT
+23,Stationaries,Files & Folders,Box File,NO,S,FF,-,BOXFL,SFF-BOXFL,CTW-MFCWHT
+24,Stationaries,Files & Folders,Onboarding Files,NO,S,FF,-,ONBFL,SFF-ONBFL,CTW-MFCWHT
+25,Stationaries,Miscellaneous,Screen Wips,NO,S,MS,-,SCNWP,SMS-SCNWP,CTW-MFCWHT
+26,Stationaries,Miscellaneous,Scissor - Medium,NO,S,MS,-,SCISMD,SMS-SCISMD,CTW-MFCWHT
+27,Stationaries,Miscellaneous,Scissor - Large,NO,S,MS,-,SCISLG,SMS-SCISLG,CTW-MFCWHT
+28,Stationaries,Miscellaneous,Paper Cutter - Large,NO,S,MS,-,CTTRLG,SMS-CTTRLG,CTW-MFCWHT
+29,Stationaries,Miscellaneous,Paper Cutter - Small,NO,S,MS,-,CTTRSM,SMS-CTTRSM,CTW-MFCWHT
+30,Stationaries,Miscellaneous,Nylon Cable Tie - 8 Inch,NO,S,MS,-,NYLTIE8,SMS-NYLTIE8,CTW-MFCWHT
+31,Stationaries,Miscellaneous,Nylon Cable Tie - 6 Inch,NO,S,MS,-,NYLTIE4,SMS-NYLTIE4,CTW-MFCWHT
+32,Stationaries,Miscellaneous,Water Bottle (Steel),NO,S,MS,-,STLWB,SMS-STLWB,CTW-MFCWHT
+33,Stationaries,Notes,A5 Notebook (Logo),NO,S,NT,-,NOTEA5,SNT-NOTEA5,CTW-MFCWHT
+34,Stationaries,Notes,3M Post It - 2 x 1  (Multi Color),NO,S,NT,-,POSTMC,SNT-POSTMC,CTW-MFCWHT
+35,Stationaries,Notes,3M Post It - 3 x 2 ,NO,S,NT,-,POST3X2,SNT-POST3X2,CTW-MFCWHT
+36,Stationaries,Notes,3M Post It - 3 x 3,NO,S,NT,-,POST3X3,SNT-POST3X3,CTW-MFCWHT
+37,Stationaries,Notes,3M Post It - 3 x 4,NO,S,NT,-,POST3X4,SNT-POST3X4,CTW-MFCWHT
+38,Stationaries,Notes,Plain Register ,NO,S,NT,-,PLNRGST,SNT-PLNRGST,CTW-MFCWHT
+39,Stationaries,Notes,Stock Register - 100 Pages,NO,S,NT,-,STKRGST,SNT-STKRGST,CTW-MFCWHT
+40,Stationaries,Notes,Attendance Register - 100 Pages,NO,S,NT,-,ATTRGST,SNT-ATTRGST,CTW-MFCWHT
+41,Stationaries,Packing Materials,Fevikwick,NO,S,PM,-,FVIKWK,SPM-FVIKWK,CTW-MFCWHT
+42,Stationaries,Packing Materials,Glue Stick - 8gm,NO,S,PM,-,GLUSTK8,SPM-GLUSTK8,CTW-MFCWHT
+43,Stationaries,Packing Materials,Stapler HD 10,NO,S,PM,-,STRHD10,SPM-STRHD10,CTW-MFCWHT
+44,Stationaries,Packing Materials,Staples 10-1M (Pins),NO,S,PM,-,STRPINS,SPM-STRPINS,CTW-MFCWHT
+45,Stationaries,Packing Materials,Stapler HP 45,NO,S,PM,-,STRHD45,SPM-STRHD45,CTW-MFCWHT
+46,Stationaries,Packing Materials,Stapler HP 24/6 (Pins),NO,S,PM,-,STRPIN24,SPM-STRPIN24,CTW-MFCWHT
+47,Stationaries,Packing Materials,Punching Machine DP-52,NO,S,PM,-,PUNG52,SPM-PUNG52,CTW-MFCWHT
+48,Stationaries,Packing Materials,Transparent Tape - 1 Inch,NO,S,PM,-,TTAPE1,SPM-TTAPE1,CTW-MFCWHT
+49,Stationaries,Packing Materials,Transparent Tape - 2 Inch,NO,S,PM,-,TTAPE2,SPM-TTAPE2,CTW-MFCWHT
+50,Stationaries,Packing Materials,Brown Tape - 2 Inch,NO,S,PM,-,BTAPE2,SPM-BTAPE2,CTW-MFCWHT
+51,Stationaries,Packing Materials,Double Side Tape - Foam,NO,S,PM,-,DSTAPE,SPM-DSTAPE,CTW-MFCWHT
+52,Stationaries,Pens & Pencils,Whiteboard Marker - Blue,NO,S,PP,-,MRKRBU,SPP-MRKRBU,CTW-MFCWHT
+53,Stationaries,Pens & Pencils,Whiteboard Marker - Black,NO,S,PP,-,MRKRBL,SPP-MRKRBL,CTW-MFCWHT
+54,Stationaries,Pens & Pencils,Whiteboard Marker - Red,NO,S,PP,-,MRKRRD,SPP-MRKRRD,CTW-MFCWHT
+55,Stationaries,Pens & Pencils,Whiteboard Marker - Green,NO,S,PP,-,MRKRGN,SPP-MRKRGN,CTW-MFCWHT
+56,Stationaries,Pens & Pencils,OHP Marker - Blue,NO,S,PP,-,OHPBLU,SPP-OHPBLU,CTW-MFCWHT
+57,Stationaries,Pens & Pencils,OHP Marker - Black,NO,S,PP,-,OHPBLK,SPP-OHPBLK,CTW-MFCWHT
+58,Stationaries,Pens & Pencils,OHP Marker - Red,NO,S,PP,-,OHPRED,SPP-OHPRED,CTW-MFCWHT
+59,Stationaries,Pens & Pencils,OHP Marker - Green,NO,S,PP,-,OHPGRN,SPP-OHPGRN,CTW-MFCWHT
+60,Stationaries,Pens & Pencils,Sharpie Marker Fine,NO,S,PP,-,SHRPIE,SPP-SHRPIE,CTW-MFCWHT
+61,Stationaries,Pens & Pencils,Highlighter Pen (Mulitcolor),NO,S,PP,-,HGHLTR1,SPP-HGHLTR1,CTW-MFCWHT
+62,Stationaries,Pens & Pencils,Highlighter Pen (Singlecolor),NO,S,PP,-,HGHLTR0,SPP-HGHLTR0,CTW-MFCWHT
+63,Stationaries,Pens & Pencils,Cello Pen - Blue,NO,S,PP,-,CELLBLU,SPP-CELLBLU,CTW-MFCWHT
+64,Stationaries,Pens & Pencils,Cello Pen - Black,NO,S,PP,-,CELLBLK,SPP-CELLBLK,CTW-MFCWHT
+65,Stationaries,Pens & Pencils,Cello Pen - Red,NO,S,PP,-,CELLRED,SPP-CELLRED,CTW-MFCWHT
+66,Stationaries,Pens & Pencils,Gel Pen - Blue,NO,S,PP,-,GELBLU,SPP-GELBLU,CTW-MFCWHT
+67,Stationaries,Pens & Pencils,Correction Pen,NO,S,PP,-,CRTNPN,SPP-CRTNPN,CTW-MFCWHT
+68,Stationaries,Pens & Pencils,Natraj Pencil,NO,S,PP,-,NJPENL,SPP-NJPENL,CTW-MFCWHT
+69,Stationaries,Pens & Pencils,Eraser,NO,S,PP,-,ERASR,SPP-ERASR,CTW-MFCWHT
+70,Stationaries,Pens & Pencils,Sharpner,NO,S,PP,-,SHPNR,SPP-SHPNR,CTW-MFCWHT
+71,Stationaries,Pens & Pencils,"Scale - 24""  (Steel)",NO,S,PP,-,SSCAL24,SPP-SSCAL24,CTW-MFCWHT
+72,Stationaries,Pens & Pencils,"Scale - 24""  (Plastic)",NO,S,PP,-,PSCAL24,SPP-PSCAL24,CTW-MFCWHT
+73,Stationaries,Pens & Pencils,White Board Duster,NO,S,PP,-,WBDSTR,SPP-WBDSTR,CTW-MFCWHT
+74,Stationaries,Pens & Pencils,Pen Stand (Round),NO,S,PP,-,PENSTD,SPP-PENSTD,CTW-MFCWHT
+75,Stationaries,Xerox Papers,A4 Copier - Bond Paper,NO,S,XP,-,A4BNDPR,SXP-A4BNDPR,CTW-MFCWHT
+76,Stationaries,Xerox Papers,A4 JK Copier,NO,S,XP,-,A4JKCPR,SXP-A4JKCPR,CTW-MFCWHT
