@@ -1,0 +1,73 @@
+﻿SL. NO.,Category,SUB-CATEGORY,ITEMS,UOM,CATG.,SUB CATG.,,ITEM,Product Code,Actual Product Code
+1,Toiletries,Tissues,C-Fold,NO,T,TS,-,CFOLD,TTS-CFOLD,TTS-CFOLD
+2,Toiletries,Tissues,Paper Napkin,NO,T,TS,-,NAPKN,TTS-NAPKN,TTS-NAPKN
+3,Toiletries,Tissues,Toilet Roll,NO,T,TS,-,TLROLL,TTS-TLROLL,TTS-TLROLL
+4,Toiletries,Personal Care,Room Freshner,NO,T,PC,-,RMFRSH,TPC-RMFRSH,TPC-RMFRSH
+5,Toiletries,Personal Care,Microburst Refill/Spray,NO,T,PC,-,MBREFIL,TPC-MBREFIL,TPC-MBREFIL
+6,Toiletries,Personal Care,Handwash - Dettol,CN,T,PC,-,HNDWSH,TPC-HNDWSH,TPC-HNDWSH
+7,Toiletries,Personal Care,Hand Sanitizer,NO,T,PC,-,HNDSNZ,TPC-HNDSNZ,TPC-HNDSNZ
+8,Toiletries,Personal Care,Nevia Deodrant - Whitening,NO,T,PC,-,DEOWTN,TPC-DEOWTN,TPC-DEOWTN
+8,Toiletries,Personal Care,Nevia Deodrant - Naturals,NO,T,PC,-,DEONTR,TPC-DEONTR,TPC-DEONTR
+9,Toiletries,Personal Care,Engage,NO,T,PC,-,DEOENG,TPC-DEOENG,TPC-DEOENG
+11,Toiletries,Personal Care,Himalaya Apricot Facewash,NO,T,PC,-,HAPWSH,TPC-HAPWSH,TPC-HAPWSH
+12,Toiletries,Personal Care,Himalaya Neem Facewash,NO,T,PC,-,HNMWSH,TPC-HNMWSH,TPC-HNMWSH
+13,Toiletries,Personal Care,Mouth Wash - Original,NO,T,PC,-,LSMWSH,TPC-LSMWSH,TPC-LSMWSH
+14,Toiletries,Personal Care,Sanitary Pads ,NO,T,PC,-,SNTYPD,TPC-SNTYPD,TPC-SNTYPD
+15,Toiletries,Chemicals,Harpic - Blue,NO,T,CM,-,HPCBLU,TCM-HPCBLU,TCM-HPCBLU
+16,Toiletries,Chemicals,Harpic - Red,NO,T,CM,-,HPCRED,TCM-HPCRED,TCM-HPCRED
+17,Toiletries,Chemicals,Dranex,NO,T,CM,-,DRANX,TCM-DRANX,TCM-DRANX
+18,Toiletries,Chemicals,Urinal Screens,NO,T,CM,-,URNSCN,TCM-URNSCN,TCM-URNSCN
+,,,,,,,,,,
+,,,,,,,,,,
+1,Cleaning Consumables,Bags,Garbage Bag - Small,RL,C,BG,-,GBAGSM,CBG-GBAGSM,CBG-GBAGSM
+2,Cleaning Consumables,Bags,Garbage Bag - Medium,RL,C,BG,-,GBAGMM,CBG-GBAGMM,CBG-GBAGMM
+3,Cleaning Consumables,Bags,Garbage Bag - XL,RL,C,BG,-,GBAGXL,CBG-GBAGXL,CBG-GBAGXL
+4,Cleaning Consumables,Bags,Garbage Bag - XXL,RL,C,BG,-,GBAGXXL,CBG-GBAGXXL,CBG-GBAGXXL
+5,Cleaning Consumables,Chemicals,Prill Liquid Soap (Green),NO,C,CM,-,PRILL,CCM-PRILL,CCM-PRILL
+6,Cleaning Consumables,Chemicals,Taski - R1,CN,C,CM,-,TSKR1,CCM-TSKR1,CCM-TSKR1
+7,Cleaning Consumables,Chemicals,Taski - R2,CN,C,CM,-,TSKR2,CCM-TSKR2,CCM-TSKR2
+8,Cleaning Consumables,Chemicals,Taski - R3,CN,C,CM,-,TSKR3,CCM-TSKR3,CCM-TSKR3
+9,Cleaning Consumables,Chemicals,Taski - R4,CN,C,CM,-,TSKR4,CCM-TSKR4,CCM-TSKR4
+10,Cleaning Consumables,Chemicals,Taski - R5,CN,C,CM,-,TSKR5,CCM-TSKR5,CCM-TSKR5
+11,Cleaning Consumables,Chemicals,Taski - R6,CN,C,CM,-,TSKR6,CCM-TSKR6,CCM-TSKR6
+12,Cleaning Consumables,Chemicals,Taski - D7,CN,C,CM,-,TSKD7,CCM-TSKD7,CCM-TSKD7
+13,Cleaning Consumables,Chemicals,Taski - TR 101,CN,C,CM,-,TSK101,CCM-TSK101,CCM-TSK101
+14,Cleaning Consumables,Chemicals,Taski - TR 102,CN,C,CM,-,TSK102,CCM-TSK102,CCM-TSK102
+15,Cleaning Consumables,Chemicals,Crew Emerel Plus,CN,C,CM,-,CWEMR,CCM-CWEMR,CCM-CWEMR
+16,Cleaning Consumables,Chemicals,Dishwasher Tablets,BX,C,CM,-,DSHTAB,CCM-DSHTAB,CCM-DSHTAB
+17,Cleaning Consumables,Chemicals,Caustic Soda Flakes,PK,C,CM,-,CSTSDA,CCM-CSTSDA,CCM-CSTSDA
+18,Cleaning Consumables,Chemicals,Colin,NO,C,CM,-,COLIN,CCM-COLIN,CCM-COLIN
+19,Cleaning Consumables,Cleaner,Steel Scrubber,NO,C,CL,-,STLSCBR,CCL-STLSCBR,CCL-STLSCBR
+20,Cleaning Consumables,Cleaner,Scrubber with Sponge,NO,C,CL,-,SCBRSPG,CCL-SCBRSPG,CCL-SCBRSPG
+21,Cleaning Consumables,Cleaner,Eze Clean - Refill,NO,C,CL,-,EZEREFL,CCL-EZEREFL,CCL-EZEREFL
+22,Cleaning Consumables,Cleaner,Wet Mop with Handle,NO,C,CL,-,WMHNDL,CCL-WMHNDL,CCL-WMHNDL
+23,Cleaning Consumables,Cleaner,Wet Mop Clip - Refill,NO,C,CL,-,WMREFL,CCL-WMREFL,CCL-WMREFL
+24,Cleaning Consumables,Cleaner,Nylon Brush with Handle,NO,C,CL,-,NYLBSH1,CCL-NYLBSH1,CCL-NYLBSH1
+25,Cleaning Consumables,Cleaner,WC Brush Nylon,NO,C,CL,-,NYLBSH2,CCL-NYLBSH2,CCL-NYLBSH2
+26,Cleaning Consumables,Cleaner,Carpet Cleaning Brush,NO,C,CL,-,NYLBSH3,CCL-NYLBSH3,CCL-NYLBSH3
+27,Cleaning Consumables,Cleaner,Glass Applicatore & Squeezer,NO,C,CL,-,GLSAPTR,CCL-GLSAPTR,CCL-GLSAPTR
+28,Cleaning Consumables,Cleaner,Toilet Pump,NO,C,CL,-,TOLPMP,CCL-TOLPMP,CCL-TOLPMP
+29,Cleaning Consumables,Cleaner,Soft Broom,NO,C,CL,-,SFTBROM,CCL-SFTBROM,CCL-SFTBROM
+30,Cleaning Consumables,Cleaner,Hard Broom,NO,C,CL,-,HRDBROM,CCL-HRDBROM,CCL-HRDBROM
+31,Cleaning Consumables,Cleaner,Yellow Sponge,NO,C,CL,-,YLWSPNG,CCL-YLWSPNG,CCL-YLWSPNG
+32,Cleaning Consumables,Cleaner,Patti Blade 3inch,NO,C,CL,-,PATBLD3,CCL-PATBLD3,CCL-PATBLD3
+33,Cleaning Consumables,Cleaner,Patti Blade 4Inch,NO,C,CL,-,PATBLD4,CCL-PATBLD4,CCL-PATBLD4
+34,Cleaning Consumables,Cleaner,Patti Blade 6Inch,NO,C,CL,-,PATBLD6,CCL-PATBLD6,CCL-PATBLD6
+35,Cleaning Consumables,Cleaner,Scrotch Brite,NO,C,CL,-,SCRBRT,CCL-SCRBRT,CCL-SCRBRT
+36,Cleaning Consumables,Cleaner,White Sponge,BX,C,CL,-,WHTSPNG,CCL-WHTSPNG,CCL-WHTSPNG
+37,Cleaning Consumables,Gloves,Rubber Hand Gloves - Red,ST,C,GL,-,RGLVRED,CGL-RGLVRED,CGL-RGLVRED
+38,Cleaning Consumables,Gloves,Rubber Hand Gloves - Green,ST,C,GL,-,RGLVGRN,CGL-RGLVGRN,CGL-RGLVGRN
+39,Cleaning Consumables,Gloves,Rubber Hand Gloves - Blue,ST,C,GL,-,RGLVBLU,CGL-RGLVBLU,CGL-RGLVBLU
+40,Cleaning Consumables,Gloves,Surgical Gloves ,ST,C,GL,-,SRGGLV,CGL-SRGGLV,CGL-SRGGLV
+41,Cleaning Consumables,Gloves,Cotton Gloves (White),ST,C,GL,-,CTNGLV,CGL-CTNGLV,CGL-CTNGLV
+42,Cleaning Consumables,Gloves,Disposal Plastic Gloves,ST,C,GL,-,DISPGLV,CGL-DISPGLV,CGL-DISPGLV
+43,Cleaning Consumables,Personal Care,Head Cap,NO,C,PC,-,HEDCP,CPC-HEDCP,CPC-HEDCP
+44,Cleaning Consumables,Personal Care,Face Mask,NO,C,PC,-,FCEMSK,CPC-FCEMSK,CPC-FCEMSK
+45,Cleaning Consumables,Personal Care,Facial Tissue Box,BX,C,PC,-,FCETISE,CPC-FCETISE,CPC-FCETISE
+46,Cleaning Consumables,Towels,Kitchen Towel,NO,C,TW,-,KITTWL,CTW-KITTWL,CTW-KITTWL
+47,Cleaning Consumables,Towels,Glass Cloth,NO,C,TW,-,GLSCLT,CTW-GLSCLT,CTW-GLSCLT
+48,Cleaning Consumables,Towels,Yellow Cloth,NO,C,TW,-,YLWCLT,CTW-YLWCLT,CTW-YLWCLT
+49,Cleaning Consumables,Towels,Micro Fiber Cloth - Red,NO,C,TW,-,MFCRED,CTW-MFCRED,CTW-MFCRED
+50,Cleaning Consumables,Towels,Micro Fiber Cloth - Blue,NO,C,TW,-,MFCBLU,CTW-MFCBLU,CTW-MFCBLU
+51,Cleaning Consumables,Towels,Micro Fiber Cloth - Green,NO,C,TW,-,MFCGRN,CTW-MFCGRN,CTW-MFCGRN
+52,Cleaning Consumables,Towels,Micro Fiber Cloth - White,NO,C,TW,-,MFCWHT,CTW-MFCWHT,CTW-MFCWHT
