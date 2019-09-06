@@ -4,6 +4,7 @@
 
 ## Build Setup
 
+install dependencies from - requirements.txt
 ``` bash
 # install dependencies
 npm install
