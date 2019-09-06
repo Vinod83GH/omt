@@ -32,21 +32,12 @@ class ProductSubCategoryAdmin(admin.ModelAdmin):
     raw_id_fields = ('category', )
     
     list_display = (
-        'get_category_desc',
+        'category',
         'code',
         'desc'
     )
 
     search_fields = ['code','desc', 'category__desc']
-
-    def get_category_desc(self, obj):
-        return obj.category.desc
-
-    # def get_unit_desc(self, obj):
-    #     return obj.unit.desc
-
-    get_category_desc.short_description = 'Category'
-    get_category_desc.boolean = True
 
     class Meta:
         model = ProductSubCategory
