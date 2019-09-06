@@ -1,0 +1,86 @@
+﻿SL. NO.,Category,SUB-CATEGORY,ITEMS,UOM,CATG.,SUB CATG.,,ITEM,Product Code,Actual Product Code
+1,Pantry,Beverages,Good Life Milk (Slim),PK,P,BV,-,SLMLK,PBV-SLMLK,PBV-SLMLK
+2,Pantry,Beverages,Good Life Milk (Regular),PK,P,BV,-,RGMLK,PBV-RGMLK,PBV-RGMLK
+3,Pantry,Beverages,Lactose Free,PK,P,BV,-,LCMLK,PBV-LCMLK,PBV-LCMLK
+4,Pantry,Beverages,Water Bottle - 500ml,PK,P,BV,-,WB20L,PBV-WB20L,PBV-WB20L
+5,Pantry,Beverages,Water Bottle - 500ml,PK,P,BV,-,WB500,PBV-WB500,PBV-WB500
+6,Pantry,Beverages,Water Bottle - 250ml,PK,P,BV,-,WB250,PBV-WB250,PBV-WB250
+7,Pantry,Beverages,Coco Cola,NO,P,BV,-,COKE,PBV-COKE,PBV-COKE
+8,Pantry,Beverages,Fanta,NO,P,BV,-,FANTA,PBV-FANTA,PBV-FANTA
+9,Pantry,Beverages,Paper Boat - Guava,NO,P,BV,-,PBGVA,PBV-PBGVA,PBV-PBGVA
+10,Pantry,Beverages,Paper Boat - Aamras,NO,P,BV,-,PBAMR,PBV-PBAMR,PBV-PBAMR
+11,Pantry,Beverages,Real - Guava,NO,P,BV,-,RLGVA,PBV-RLGVA,PBV-RLGVA
+12,Pantry,Beverages,Real - Mixed Fruits,NO,P,BV,-,RLMXFR,PBV-RLMXFR,PBV-RLMXFR
+13,Pantry,Beverages,Tropicana - Pomegranate,NO,P,BV,-,TRPOM,PBV-TRPOM,PBV-TRPOM
+14,Pantry,Beverages,Tropicana - Cranberry,NO,P,BV,-,TRCRN,PBV-TRCRN,PBV-TRCRN
+15,Pantry,Beverages,Minute Maid - Pulpy Orange,NO,P,BV,-,MMORG,PBV-MMORG,PBV-MMORG
+16,Pantry,Beverages,Minute Maid - Pulpy Nimbu,NO,P,BV,-,MMNBU,PBV-MMNBU,PBV-MMNBU
+17,Pantry,Beverages,Buttermilk,NO,P,BV,-,BTRMLK,PBV-BTRMLK,PBV-BTRMLK
+18,Pantry,Ceral,Kelloggs - Chocos,PK,P,CK,-,CHOCP,PCK-CHOCP,PCK-CHOCP
+19,Pantry,Ceral,Kelloggs - Museli Fruit & Nut,PK,P,CK,-,JEERA,PCK-JEERA,PCK-JEERA
+20,Pantry,Ceral,Kelloggs - Museli Nuts Delight,PK,P,CK,-,CSHW,PCK-CSHW,PCK-CSHW
+21,Pantry,Ceral,Kelloggs - Corn Flakes,PK,P,CK,-,BUTTR,PCK-BUTTR,PCK-BUTTR
+22,Pantry,Ceral,Kelloggs - Fruit Magic,PK,P,CK,-,FRTNT,PCK-FRTNT,PCK-FRTNT
+23,Pantry,Chocolates,Yoga Bar,NO,P,CK,-,CHONT,PCK-CHONT,PCK-CHONT
+24,Pantry,Chocolates,Eclairs,PK,P,CK,-,GDBTR,PCK-GDBTR,PCK-GDBTR
+25,Pantry,Chocolates,Kinder Joy,NO,P,CK,-,GDCHW,PCK-GDCHW,PCK-GDCHW
+26,Pantry,Chocolates,Cadbury Rs.10,NO,P,CK,-,MGOLD,PCK-MGOLD,PCK-MGOLD
+27,Pantry,Chocolates,Cadbury Rs.40,NO,P,CK,-,BORBN,PCK-BORBN,PCK-BORBN
+28,Pantry,Chocolates,Cadbury Silk,NO,P,CK,-,DARKF,PCK-DARKF,PCK-DARKF
+29,Pantry,Chocolates,Cadbury Roast Almond,NO,P,CK,-,JIMJM,PCK-JIMJM,PCK-JIMJM
+30,Pantry,Chocolates,Cadbury Silk Bubbly,NO,P,CK,-,ORCHO,PCK-ORCHO,PCK-ORCHO
+31,Pantry,Chocolates,Bounty,NO,P,CK,-,PARLE,PCK-PARLE,PCK-PARLE
+32,Pantry,Chocolates,BarOne,NO,P,RE,-,HTCHO,PRE-HTCHO,PRE-HTCHO
+33,Pantry,Chocolates,KitKat,NO,P,RE,-,TOKCH,PRE-TOKCH,PRE-TOKCH
+34,Pantry,Chocolates,5Star,NO,P,RE,-,UPMA,PRE-UPMA,PRE-UPMA
+35,Pantry,Chocolates,Mars,NO,P,RE,-,POHA,PRE-POHA,PRE-POHA
+36,Pantry,Chocolates,Snickers,NO,P,RE,-,CUPND,PRE-CUPND,PRE-CUPND
+37,Pantry,Chocolates,Happydent,NO,P,CL,-,KLCHO,PCL-KLCHO,PCL-KLCHO
+38,Pantry,Chocolates,Orbit,NO,P,CL,-,KLFTNT,PCL-KLFTNT,PCL-KLFTNT
+39,Pantry,Cookies,Unibic - Chocochip,PK,P,CL,-,KLNUTS,PCL-KLNUTS,PCL-KLNUTS
+40,Pantry,Cookies,Unibic - Jeera,PK,P,CL,-,KLCORN,PCL-KLCORN,PCL-KLCORN
+41,Pantry,Cookies,Unibic - Cashew,PK,P,CL,-,KLFMGC,PCL-KLFMGC,PCL-KLFMGC
+42,Pantry,Cookies,Unibic - Butter,PK,P,RE,-,PKLMG,PRE-PKLMG,PRE-PKLMG
+43,Pantry,Cookies,Unibic - Fruit & Nut,PK,P,RE,-,PKSLM,PRE-PKSLM,PRE-PKSLM
+44,Pantry,Cookies,Unibic - Choco Nut,PK,P,RE,-,PKMXD,PRE-PKMXD,PRE-PKMXD
+45,Pantry,Cookies,Good Day - Butter,PK,P,CH,-,YGBAR,PCH-YGBAR,PCH-YGBAR
+46,Pantry,Cookies,Good Day - Cashew,PK,P,CH,-,ECLAR,PCH-ECLAR,PCH-ECLAR
+47,Pantry,Cookies,Marrie Gold,PK,P,CH,-,KDRJOY,PCH-KDRJOY,PCH-KDRJOY
+48,Pantry,Cookies,Bourborn,PK,P,CH,-,CADB10,PCH-CADB10,PCH-CADB10
+49,Pantry,Cookies,Dark Fantasy,PK,P,CH,-,CADB40,PCH-CADB40,PCH-CADB40
+50,Pantry,Cookies,Jim Jam ,PK,P,CH,-,CADSLK,PCH-CADSLK,PCH-CADSLK
+51,Pantry,Cookies,Oreo Chocolate,PK,P,CH,-,CADALM,PCH-CADALM,PCH-CADALM
+52,Pantry,Cookies,Parle G,PK,P,CH,-,CADBUB,PCH-CADBUB,PCH-CADBUB
+53,Pantry,Dry Fruits,Seedless Dates,PK,P,CH,-,BOUNT,PCH-BOUNT,PCH-BOUNT
+54,Pantry,Dry Fruits,Raisins,PK,P,CH,-,BARON,PCH-BARON,PCH-BARON
+55,Pantry,Dry Fruits,Almond,PK,P,CH,-,KITKAT,PCH-KITKAT,PCH-KITKAT
+56,Pantry,Premix Powder,Badam Drink,PK,P,CH,-,5STAR,PCH-5STAR,PCH-5STAR
+57,Pantry,Premix Powder,Bournvita,PK,P,CH,-,MARS,PCH-MARS,PCH-MARS
+58,Pantry,Premix Powder,Black Pepper - Grinder,PK,P,CH,-,SNKRS,PCH-SNKRS,PCH-SNKRS
+59,Pantry,Premix Powder,Black Salt - Grinder,PK,P,CH,-,HPDNT,PCH-HPDNT,PCH-HPDNT
+60,Pantry,Premix Powder,Chat Masala,PK,P,CH,-,ORBIT,PCH-ORBIT,PCH-ORBIT
+61,Pantry,Ready to Eat,Hot Chocoloate,NO,P,MX,-,BDMMLK,PMX-BDMMLK,PMX-BDMMLK
+62,Pantry,Ready to Eat,Tomato Ketchup,NO,P,MX,-,BORVTA,PMX-BORVTA,PMX-BORVTA
+63,Pantry,Ready to Eat,Upma,NO,P,RE,-,CHKSUP,PRE-CHKSUP,PRE-CHKSUP
+64,Pantry,Ready to Eat,Poha,NO,P,RE,-,VEGSUP,PRE-VEGSUP,PRE-VEGSUP
+65,Pantry,Ready to Eat,Cup Noodles,NO,P,MX,-,BLKPPR,PMX-BLKPPR,PMX-BLKPPR
+66,Pantry,Ready to Eat,Pickle - Mango,PK,P,MX,-,BLKSLT,PMX-BLKSLT,PMX-BLKSLT
+67,Pantry,Ready to Eat,Pickle - Sweet Lime,PK,P,MX,-,CHTMSL,PMX-CHTMSL,PMX-CHTMSL
+68,Pantry,Ready to Eat,Pickle - Mixed,PK,P,RE,-,PLBUTR,PRE-PLBUTR,PRE-PLBUTR
+69,Pantry,Ready to Eat,Sweet Corn - Chicken,PK,P,RE,-,PNBUTR,PRE-PNBUTR,PRE-PNBUTR
+70,Pantry,Ready to Eat,Manchow - Veg,PK,P,RE,-,MXJAM,PRE-MXJAM,PRE-MXJAM
+71,Pantry,Ready to Eat,Plain Butter,NO,P,RE,-,GRDNUT,PRE-GRDNUT,PRE-GRDNUT
+72,Pantry,Ready to Eat,Peanut Butter,NO,P,RE,-,SALT,PRE-SALT,PRE-SALT
+73,Pantry,Ready to Eat,Mixed Fruit Jam,NO,P,RE,-,SAUNF,PRE-SAUNF,PRE-SAUNF
+74,Pantry,Ready to Eat,Groundnut,GM,P,RE,-,HONEY,PRE-HONEY,PRE-HONEY
+75,Pantry,Ready to Eat,Salt,KG,P,RU,-,WDSPN,PRU-WDSPN,PRU-WDSPN
+76,Pantry,Ready to Eat,Saunf,GM,P,RU,-,PLFORK,PRU-PLFORK,PRU-PLFORK
+77,Pantry,Ready to Eat,Honey,NO,P,RU,-,PPPLAT,PRU-PPPLAT,PRU-PPPLAT
+78,Pantry,Ready to Use,Wooden Spoons ,NO,P,RU,-,PPGLAS,PRU-PPGLAS,PRU-PPGLAS
+79,Pantry,Ready to Use,Plastic Fork,NO,P,RU,-,PPCUP,PRU-PPCUP,PRU-PPCUP
+80,Pantry,Ready to Use,Paper Plate,NO,P,DF,-,DATES,PDF-DATES,PDF-DATES
+81,Pantry,Ready to Use,Paper Glass,NO,P,DF,-,RAISN,PDF-RAISN,PDF-RAISN
+82,Pantry,Ready to Use,Paper Cup,NO,P,DF,-,ALMND,PDF-ALMND,PDF-ALMND
+83,Pantry,Ready to Use,Areca Nut - Plates,NO,P,RU,-,ARPLT,PRU-ARPLT,PRU-ARPLT
+84,Pantry,Ready to Use,Areca Nut - Bowl,NO,P,RU,-,ARBWL,PRU-ARBWL,PRU-ARBWL
+85,Pantry,Ready to Use,Areca Nut - Spoons,NO,P,RU,-,ARSPN,PRU-ARSPN,PRU-ARSPN
