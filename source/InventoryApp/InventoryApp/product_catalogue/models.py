@@ -27,7 +27,7 @@ class ProductUnit(models.Model):
 # Create your models here.
 class Product(models.Model):
     '''Product model'''
-    code = models.CharField(max_length=50, primary_key=True, null=False)
+    code = models.CharField(max_length=50, unique=True, null=False)
     desc = models.CharField(max_length=1000, null=False)
     brand = models.CharField(max_length=1000, null=True)
     category = models.ForeignKey(ProductCategory, on_delete=models.CASCADE)
@@ -36,4 +36,4 @@ class Product(models.Model):
     minimum_balance = models.IntegerField(default=0)
     
     def __str__(self):
-        return '{}: {}'.format(self.code,self.desc)
+        return '{}'.format(self.desc)
