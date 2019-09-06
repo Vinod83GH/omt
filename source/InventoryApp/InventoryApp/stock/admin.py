@@ -15,6 +15,7 @@ class StockInAdmin(admin.ModelAdmin):
     list_display = (
         'product_item',
         'cost_per_unit',
+        'unit',
         'total_units',
         # 'get_unit_desc',
         'tax',
