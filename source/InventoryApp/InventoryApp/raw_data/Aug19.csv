@@ -1,0 +1,232 @@
+﻿SL. NO.,Product Code,Category,SUB-CATEGORY,ITEMS,UOM, COST/UNIT ,Opening Balance,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,Stock Receipt,Stock Receipt,Consumption,Closing Balance, Total Cost 
+1,PBV-SLMLK,Pantry,Beverages,Good Life Milk (Slim) 1 LTR,LR, 47.58 ,10,6,7,,,4,9,5,6,8,,,,5,6,,8,,,5,4,4,7,9,,,5,9,5,6,5,,,120,123,7," 5,852.75 "
+2,PBV-RGMLK,Pantry,Beverages,Good Life Milk (Regular) 1 LTR,LR, 50.00 ,2,4,3,,,5,2,3,3,4,,,,2,2,,3,,,4,4,5,3,2,,,3,3,4,5,2,,,70,66,6," 3,300.00 "
+3,PBV-LCMLK,Pantry,Beverages,Lactose Free - 200 ML,ML, 25.00 ,0,3,2,,,4,2,,2,2,,,,2,2,,2,,,,,,,,,,,,,,,,,25,21,4, 525.00 
+4,PBV-WB20L,Pantry,Beverages,Water Bottle - 20 LTR,ML, 38.00 ,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,11, -   
+5,PBV-WB500,Pantry,Beverages,Water Bottle - 500 ML,ML, 10.00 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+6,PBV-WB250,Pantry,Beverages,Water Bottle - 250 ML,ML, 7.00 ,0,,,,,,3,,,,,,,,,,,,,5,,,3,,,,,3,,,,,,16,14,2, 98.00 
+7,PBV-COKE,Pantry,Beverages,Coco Cola - 2 LTR,LR, 70.56 ,2,1,1,,,1,1,1,1,1,,,,,1,,,,,1,1,1,1,1,,,1,1,1,1,1,,,16,18,0," 1,270.00 "
+8,PBV-FANTA,Pantry,Beverages,Fanta - 2 LTR,LR, 70.31 ,2,1,1,,,1,1,1,1,1,,,,,1,,,,,1,1,1,1,1,,,1,1,1,1,1,,,16,18,0," 1,265.60 "
+9,PBV-PBGVA,Pantry,Beverages,Paper Boat - Guava - 1 LTR,LR, 85.33 ,3,1,1,,,1,1,1,1,1,,,,,,,,,,1,1,1,1,1,,,1,1,1,1,1,,,16,17,2," 1,450.67 "
+10,PBV-PBAMR,Pantry,Beverages,Paper Boat - Aamras 1 LTR,LR, 85.33 ,0,1,1,,,1,1,1,1,1,,,,1,1,,1,,,1,1,1,1,1,,,1,1,1,1,1,,,20,20,0," 1,706.67 "
+11,PBV-RLGVA,Pantry,Beverages,Real - Guava 1 LTR,LR, 85.33 ,1,,,,,,,,,,,,,2,1,,1,,,,,,,,,,,,,,,,,6,4,3, 341.33 
+12,PBV-RLMXFR,Pantry,Beverages,Real - Mixed Fruits 1 LTR,LR, 85.33 ,3,1,1,,,1,1,1,1,1,,,,1,,,,,,1,1,1,1,1,,,1,1,1,1,1,,,16,18,1," 1,536.00 "
+13,PBV-TRPOM,Pantry,Beverages,Tropicana - Pomegranate 1 LTR,LR, 94.00 ,1,1,1,,,1,1,1,1,1,,,,,1,,1,,,1,1,1,1,1,,,1,1,1,1,1,,,20,19,2," 1,786.00 "
+14,PBV-TRCRN,Pantry,Beverages,Tropicana - Cranberry 1 LTR,LR, 94.33 ,2,1,1,,,1,1,1,1,1,,,,,1,,,,,1,1,1,1,1,,,1,1,1,1,1,,,16,18,0," 1,698.00 "
+15,PBV-MMORG,Pantry,Beverages,Minute Maid - Pulpy Orange 1 LTR,LR, 60.65 ,2,1,1,,,1,1,1,1,1,,,,,,,,,,1,1,1,1,1,,,1,1,1,1,1,,,16,17,1," 1,031.05 "
+16,PBV-MMNBU,Pantry,Beverages,Minute Maid - Pulpy Nimbu 1 LTR,LR, 59.00 ,3,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,2,1, 118.00 
+17,PBV-BTRMLK,Pantry,Beverages,Buttermilk 1 LTR,LR, 42.00 ,4,2,2,,,1,1,2,1,2,,,,1,2,,1,,,2,2,2,2,2,,,2,1,2,1,2,,,35,33,6," 1,386.00 "
+18,PCK-CHOCP,Pantry,Ceral,Kelloggs - Chocos 750 GM,BX, 368.60 ,1,0.5,0.5,,,0.5,,0.5,0.5,,,,,,,,,,,,0.5,0.5,0.5,0.5,,,0.5,,0.5,0.5,,,,5,6,0," 2,211.60 "
+19,PCK-JEERA,Pantry,Ceral,Kelloggs - Museli Fruit & Nut 750 GM,BX, 235.00 ,0,,,,,0.5,0.5,,0.5,0.5,,,,,,,1,,,0.5,,,,0.5,,,,0.5,,0.5,0.5,,,6,5.5,0.5," 1,292.50 "
+20,PCK-CSHW,Pantry,Ceral,Kelloggs - Museli Nuts Delight 750 GM,BX, 233.00 ,0.5,0.5,0.5,,,,0.5,0.5,,0.5,,,,,,,,,,0.5,0.5,0.5,0.5,0.5,,,0.5,0.5,0.5,,0.5,,,8,7,1.5," 1,631.00 "
+21,PCK-BUTTR,Pantry,Ceral,Kelloggs - Corn Flakes 750 GM,BX, 245.80 ,1,0.5,0.5,,,0.5,,0.5,0.5,,,,,,,,,,,,0.5,0.5,0.5,,,,0.5,,0.5,0.5,,,,5,5.5,0.5," 1,351.90 "
+22,PCK-FRTNT,Pantry,Ceral,Kelloggs - Fruit Magic 750 GM,BX, 233.00 ,2.5,0.5,0.5,,,,0.5,0.5,0.5,0.5,,,,,,,1,,,0.5,0.5,,,0.5,,,0.5,0.5,0.5,0.5,0.5,,,10,8,4.5," 1,864.00 "
+23,PCK-CHONT,Pantry,Chocolates,Yoga Bar,NO, 33.90 ,19,6,6,,,6,6,6,6,6,,,,5,4,,5,,,6,6,6,6,6,,,6,6,6,6,6,,,100,116,3," 3,932.40 "
+24,PCK-GDBTR,Pantry,Chocolates,Eclairs ,NO, 1.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+25,PCK-GDCHW,Pantry,Chocolates,Kinder Joy,NO, 40.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+26,PCK-MGOLD,Pantry,Chocolates,Cadbury Rs.10,NO, 10.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+27,PCK-BORBN,Pantry,Chocolates,Cadbury Rs.40,NO, 40.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+28,PCK-DARKF,Pantry,Chocolates,Cadbury Silk,NO, 80.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+29,PCK-JIMJM,Pantry,Chocolates,Cadbury Roast Almond,NO, 40.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+30,PCK-ORCHO,Pantry,Chocolates,Cadbury Silk Bubbly,NO, 140.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+31,PCK-PARLE,Pantry,Chocolates,Bounty,NO, 30.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+32,PRE-HTCHO,Pantry,Chocolates,BarOne,NO, 5.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+33,PRE-TOKCH,Pantry,Chocolates,KitKat,NO, 50.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+34,PRE-UPMA,Pantry,Chocolates,5Star,NO, 20.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+35,PRE-POHA,Pantry,Chocolates,Mars,NO, 10.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+36,PRE-CUPND,Pantry,Chocolates,Snickers,NO, 20.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+37,PCL-KLCHO,Pantry,Chocolates,Happydent (8 in a Box),BX, 33.75 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+38,PCL-KLFTNT,Pantry,Chocolates,Orbit (8 in a Box),BX, 40.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+39,PCL-KLNUTS,Pantry,Cookies,Unibic - Chocochip,NO, 25.40 ,3,1,1,,,,2,1,1,2,,,,1,1,,1,,,1,1,1,,2,,,1,2,1,1,2,,,25,23,5, 584.20 
+40,PCL-KLCORN,Pantry,Cookies,Unibic - Jeera,NO, 12.71 ,2,1,1,,,1,1,1,2,2,,,,1,1,,,,,1,1,2,1,1,,,1,1,1,2,2,,,25,24,3, 305.00 
+41,PCL-KLFMGC,Pantry,Cookies,Unibic - Cashew,NO, 20.35 ,2,2,2,,,1,1,2,,1,,,,2,1,,1,,,,2,1,,1,,,2,1,2,,1,,,25,23,4, 468.05 
+42,PRE-PKLMG,Pantry,Cookies,Unibic - Butter,NO, 20.35 ,0,,,,,,1,,1,,,,,1,1,,,,,2,,2,1,,,,,1,,1,,,,15,11,4, 223.85 
+43,PRE-PKSLM,Pantry,Cookies,Unibic - Fruit & Nut,NO, 20.35 ,6,2,2,,,1,,2,2,1,,,,,,,,,,1,2,,1,1,,,2,,2,2,1,,,16,22,0, 447.70 
+44,PRE-PKMXD,Pantry,Cookies,Unibic - Choco Nut,NO, 20.35 ,0,1,1,,,2,1,1,1,1,,,,2,1,,1,,,,1,1,1,2,,,1,1,1,1,1,,,25,22,3, 447.70 
+45,PCH-YGBAR,Pantry,Cookies,Good Day - Butter,NO, 12.70 ,2,2,2,,,,1,2,,2,,,,1,,,1,,,1,2,1,1,1,,,2,1,2,,2,,,25,24,3, 304.80 
+46,PCH-ECLAR,Pantry,Cookies,Good Day - Cashew,NO, 16.95 ,3,,,,,1,1,,,1,,,,,1,,,,,1,,1,1,1,,,,1,,,1,,,10,10,3, 169.50 
+47,PCH-KDRJOY,Pantry,Cookies,Marrie Gold,NO, 22.90 ,1,,,,,,,,,,,,,2,2,,,,,,,,,,,,,,,,,,,5,4,2, 91.60 
+48,PCH-CADB10,Pantry,Cookies,Bourborn,NO, 16.94 ,27,1,1,,,1,1,1,2,1,,,,,1,,1,,,1,1,1,1,,,,1,1,1,2,1,,,20,20,27, 338.80 
+49,PCH-CADB40,Pantry,Cookies,Dark Fantasy,NO, 25.40 ,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,9, -   
+50,PCH-CADSLK,Pantry,Cookies,Jim Jam ,NO, 25.40 ,3,1,1,,,,1,1,1,1,,,,,,,1,,,1,1,1,1,,,,1,1,1,1,1,,,15,16,2, 406.40 
+51,PCH-CADALM,Pantry,Cookies,Oreo Chocolate,NO, 25.40 ,4,,,,,1,1,,1,1,,,,,1,,1,,,1,,1,1,,,,,1,,1,1,,,10,12,2, 304.80 
+52,PCH-CADBUB,Pantry,Cookies,Parle G - 10 Rs.,NO, 16.90 ,3,1,1,,,1,1,1,,1,,,,,2,,,,,,1,1,,1,,,1,1,1,,1,,,15,15,3, 253.50 
+53,PCH-BOUNT,Pantry,Dry Fruits,Seedless Dates - 500 GM,PK, 300.00 ,2.5,0.5,0.5,,,0.5,0.5,0.5,0.5,0.5,,,,1,1,,,,,0.5,0.5,0.5,0.5,0.5,,,0.5,0.5,0.5,0.5,0.5,,,10,10.5,2," 3,150.00 "
+54,PCH-BARON,Pantry,Dry Fruits,Raisins - 500 GM,PK, 480.00 ,7.5,0.5,0.5,,,0.5,0.5,0.5,0.5,0.5,,,,,,,,,,0.5,0.5,0.5,0.5,0.5,,,0.5,0.5,0.5,0.5,0.5,,,2,8.5,1," 4,080.00 "
+55,PCH-KITKAT,Pantry,Dry Fruits,Almond - 500 GM,PK," 1,080.00 ",7.5,0.5,0.5,,,0.5,0.5,0.5,0.5,0.5,,,,,,,,,,0.5,0.5,0.5,0.5,0.5,,,0.5,0.5,0.5,0.5,0.5,,,2,8.5,1," 9,180.00 "
+56,PCH-5STAR,Pantry,Premix Powder,Badam Drink - 750 GM,NO, 165.00 ,7,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,6, 165.00 
+57,PCH-MARS,Pantry,Premix Powder,Bournvita 750 GM,NO, 308.00 ,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3, -   
+58,PCH-SNKRS,Pantry,Premix Powder,Black Pepper - Grinder,NO, 151.40 ,5,1,1,,,1,1,1,1,1,,,,,,,,,,1,1,1,1,1,,,1,1,1,1,1,,,20,17,8," 2,573.80 "
+59,PCH-HPDNT,Pantry,Premix Powder,Black Salt - Grinder,PK, 84.40 ,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,18, -   
+60,PCH-ORBIT,Pantry,Premix Powder,Chat Masala,NO, 31.40 ,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2, -   
+61,PMX-BDMMLK,Pantry,Ready to Eat,Hot Chocoloate,NO, 160.00 ,0,,,,,2,,,3,,,,,2,2,,,,,3,,2,1,3,,,,,,3,,,,25,21,4," 3,360.00 "
+62,PMX-BORVTA,Pantry,Ready to Eat,Tomato Ketchup - 1 LTR,PK, 156.20 ,38,,,,,,,,1,,,,,,,,,,,1,,,,,,,,,,1,,,,,3,35, 468.60 
+63,PRE-CHKSUP,Pantry,Ready to Eat,Upma,PK, 42.00 ,7,2,2,,,4,,2,3,1,,,,3,3,,3,,,5,2,5,3,3,,,2,,2,3,1,,,50,49,8," 2,058.00 "
+64,PRE-VEGSUP,Pantry,Ready to Eat,Poha,PK, 42.00 ,5,5,5,,,2,1,5,2,3,,,,2,3,,3,,,1,5,3,3,3,,,5,1,5,2,3,,,80,62,23," 2,604.00 "
+65,PMX-BLKPPR,Pantry,Ready to Eat,Cup Noodles,NO, 35.70 ,10,4,4,,,3,8,4,5,5,,,,1,8,,3,,,8,4,6,5,2,,,4,8,4,5,5,,,100,96,14," 3,427.20 "
+66,PMX-BLKSLT,Pantry,Ready to Eat,Pickle - Mango 300 GM,NO, 83.50 ,1,,,,,1,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,2,0, 167.00 
+67,PMX-CHTMSL,Pantry,Ready to Eat,Pickle - Sweet Lime 300 GM,NO, 83.50 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+68,PRE-PLBUTR,Pantry,Ready to Eat,Pickle - Mixed 300 GM,PK, 83.50 ,1,,,,,,,,,1,,,,,,,,,,1,,,1,,,,,,,,1,,,5,4,2, 334.00 
+69,PRE-PNBUTR,Pantry,Ready to Eat,Sweet Corn - Chicken 10 RS.,PK, 8.90 ,7,2,2,,,7,4,2,5,1,,,,1,2,,2,,,10,2,9,9,8,,,2,4,2,5,1,,,80,80,7, 712.00 
+70,PRE-MXJAM,Pantry,Ready to Eat,Manchow - Veg 10 RS.,NO, 8.90 ,14,6,6,,,5,3,6,9,,,,,,1,,,,,9,6,3,4,12,,,6,3,6,9,,,,80,94,0, 836.60 
+71,PRE-GRDNUT,Pantry,Ready to Eat,Plain Butter - 250 GM,NO, 200.90 ,3,,,,,1,,,1,,,,,2,1,,,,,,,1,1,,,,,,,1,,,,5,8,0," 1,607.20 "
+72,PRE-SALT,Pantry,Ready to Eat,Peanut Butter - 200 GM,NO, 137.50 ,2,,,,,,,,,1,,,,,,,,,,1,,,,,,,,,,,1,,,3,3,2, 412.50 
+73,PRE-SAUNF,Pantry,Ready to Eat,Mixed Fruit Jam - 500 GM,NO, 164.00 ,2,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,1,,,3,3,2, 492.00 
+74,PRE-HONEY,Pantry,Ready to Eat,Groundnut,KG, 99.00 ,1.5,0.5,0.5,,,0.5,0.5,0.5,0.5,0.5,,,,,,,,,,0.5,0.5,0.5,0.5,0.5,,,0.5,0.5,0.5,0.5,0.5,,,10,8.5,3, 841.50 
+75,PRU-WDSPN,Pantry,Ready to Eat,Salt 1 KG,NO, 19.00 ,1,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,3,2,2, 38.00 
+76,PRU-PLFORK,Pantry,Ready to Eat,Saunf 250 GM,NO, 250.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+77,PRU-PPPLAT,Pantry,Ready to Eat,Honey - 250 GM,NO, 280.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+78,PRU-PPGLAS,Pantry,Ready to Use,Wooden Spoons - 1000 NOS,PK, 80.00 ,0,,,,,,,,,,,,,1,,,,,,1,,1,,,,,,,,,,,,3,3,0, 240.00 
+79,PRU-PPCUP,Pantry,Ready to Use,Plastic Fork,PK, 10.00 ,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,18, -   
+80,PDF-DATES,Pantry,Ready to Use,Paper Plate,PK, 60.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+81,PDF-RAISN,Pantry,Ready to Use,Paper Glass,PK, 40.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+82,PDF-ALMND,Pantry,Ready to Use,Paper Cup,PK, 0.60 ,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,200, -   
+83,PRU-ARPLT,Pantry,Ready to Use,Areca Nut - Plates,NO, 10.00 ,300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,300, -   
+84,PRU-ARBWL,Pantry,Ready to Use,Areca Nut - Bowl,NO, 2.80 ,106,55,55,,,60,35,55,40,25,,,,25,,,,,,40,55,30,25,25,,,55,35,55,40,25,,,700,735,71," 2,058.00 "
+85,PRU-ARSPN,Pantry,Ready to Use,Areca Nut - Spoons,PK, 0.40 ,5,,,,,50,,,,,,,,,50,,,,,,,25,,,,,,,,,,,,140,125,20, 50.00 
+86,TTS-CFOLD,Toiletries,Tissues,C-Fold,NO, 46.70 ,19,2,2,,,3,10,2,5,5,,,,5,5,,3,,,4,2,6,5,2,,,2,10,2,5,5,,,80,85,14," 3,969.50 "
+87,TTS-NAPKN,Toiletries,Tissues,Paper Napkin,NO, 26.67 ,16,5,5,,,4,5,5,5,5,,,,5,5,,4,,,3,5,5,5,3,,,5,5,5,5,5,,,80,94,2," 2,506.98 "
+88,TTS-TLROLL,Toiletries,Tissues,Toilet Roll,NO, 39.00 ,10,5,5,,,5,8,5,5,5,,,,6,,,3,,,6,5,5,5,5,,,5,8,5,5,5,,,100,101,9," 3,939.00 "
+89,TPC-RMFRSH,Toiletries,Personal Care,Room Freshner,NO, 114.40 ,4,,,,,,1,,,1,,,,,,,,,,,,,,1,,,,1,,,1,,,3,5,2, 572.00 
+90,TPC-MBREFIL,Toiletries,Personal Care,Microburst Refill/Spray,NO, 229.00 ,1,,,,,,,,1,,,,,,,,,,,,,1,,,,,,,,1,,,,3,3,1, 687.00 
+91,TPC-HNDWSH,Toiletries,Personal Care,Handwash - Dettol,CN, 162.70 ,0,,,,,1,,,,,,,,,,,,,,1,,,1,,,,,,,,,,,3,3,0, 488.10 
+92,TPC-HNDSNZ,Toiletries,Personal Care,Hand Sanitizer,NO, 254.23 ,0,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,3,1,2, 254.23 
+93,TPC-DEOWTN,Toiletries,Personal Care,Nevia Deodrant - Whitening,NO, 171.00 ,2,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,1, 171.00 
+94,TPC-DEONTR,Toiletries,Personal Care,Nevia Deodrant - Naturals,NO, 165.00 ,4,,,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,1,,,,3,1, 495.00 
+95,TPC-DEOENG,Toiletries,Personal Care,Engage,NO, 145.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+96,TPC-HAPWSH,Toiletries,Personal Care,Himalaya Apricot Facewash,NO, 107.60 ,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,0, 107.60 
+97,TPC-HNMWSH,Toiletries,Personal Care,Himalaya Neem Facewash,NO, 102.50 ,0,1,1,,,,,1,,,,,,,,,,,,,1,,,1,,,1,,1,,,,,10,7,3, 717.50 
+98,TPC-LSMWSH,Toiletries,Personal Care,Mouth Wash - Original,NO, 178.00 ,2,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,2,0, 356.00 
+99,TPC-SNTYPD,Toiletries,Personal Care,Sanitary Pads ,NO, 16.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+100,TCM-HPCBLU,Toiletries,Chemicals,Harpic - Blue,NO, 101.70 ,1,1,1,,,,,1,,,,,,,,,,,,,1,1,,,,,1,,1,,,,,10,7,4, 711.90 
+101,TCM-HPCRED,Toiletries,Chemicals,Harpic - Red,NO, 128.00 ,0,,,,,,,,1,,,,,1,,,,,,,,1,,,,,,,,1,,,,5,4,1, 512.00 
+102,TCM-DRANX,Toiletries,Chemicals,Dranex,NO, 135.60 ,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,0, 135.60 
+103,TCM-URNSCN,Toiletries,Chemicals,Urinal Screens,NO, 32.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+104,CBG-GBAGSM,Cleaning Consumables,Bags,Garbage Bag - Small,RL, 55.00 ,0,,,,,,1,,,1,,,,,,,,,,,,1,,,,,,1,,,1,,,5,5,0, 275.00 
+105,CBG-GBAGMM,Cleaning Consumables,Bags,Garbage Bag - Medium,RL, 50.80 ,20,1,1,,,,,1,,,,,,,,,,,,,1,,,,,,1,,1,,,,,,6,14, 304.80 
+106,CBG-GBAGXL,Cleaning Consumables,Bags,Garbage Bag - XL,RL, 93.20 ,1,,,,,,1,,1,,,,,,,,1,,,,,,,,,,,1,,1,,,,5,5,1, 466.00 
+107,CBG-GBAGXXL,Cleaning Consumables,Bags,Garbage Bag - XXL,RL, 102.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+108,CCM-PRILL,Cleaning Consumables,Chemicals,Prill Liquid Soap (Green),NO, 125.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+109,CCM-TSKR1,Cleaning Consumables,Chemicals,Taski - R1,CN," 1,003.70 ",4,,,,,,1,,,,,,,1,,,,,,1,,,1,,,,,1,,,,,,3,5,2," 5,018.50 "
+110,CCM-TSKR2,Cleaning Consumables,Chemicals,Taski - R2,CN, 870.50 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+111,CCM-TSKR3,Cleaning Consumables,Chemicals,Taski - R3,CN," 1,168.00 ",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+112,CCM-TSKR4,Cleaning Consumables,Chemicals,Taski - R4,CN, 630.50 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+113,CCM-TSKR5,Cleaning Consumables,Chemicals,Taski - R5,CN, 980.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+114,CCM-TSKR6,Cleaning Consumables,Chemicals,Taski - R6,CN, 979.00 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+115,CCM-TSKD7,Cleaning Consumables,Chemicals,Taski - D7,CN," 1,201.00 ",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+116,CCM-TSK101,Cleaning Consumables,Chemicals,Taski - TR 101,CN," 1,300.80 ",0,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,3,1,2," 1,300.80 "
+117,CCM-TSK102,Cleaning Consumables,Chemicals,Taski - TR 102,CN," 1,157.00 ",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+118,CCM-CWEMR,Cleaning Consumables,Chemicals,Crew Emerel Plus 500 ML,CN, 339.00 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+119,CCM-DSHTAB,Cleaning Consumables,Chemicals,Dishwasher Tablets,BX, 260.00 ,1,,,,,,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,3,2,2, 520.00 
+120,CCM-CSTSDA,Cleaning Consumables,Chemicals,Caustic Soda Flakes,PK, 90.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+121,CCM-COLIN,Cleaning Consumables,Chemicals,Colin,NO, 60.90 ,0,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,3,1,2, 60.90 
+122,CCL-STLSCBR,Cleaning Consumables,Cleaner,Steel Scrubber,NO, 5.00 ,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5, -   
+123,CCL-SCBRSPG,Cleaning Consumables,Cleaner,Scrubber with Sponge,NO, 12.00 ,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5, -   
+124,CCL-EZEREFL,Cleaning Consumables,Cleaner,Eze Clean - Refill,NO, 65.00 ,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5, -   
+125,CCL-WMHNDL,Cleaning Consumables,Cleaner,Wet Mop with Handle,NO, 145.00 ,4,,,,,,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,3,2,5, 290.00 
+126,CCL-WMREFL,Cleaning Consumables,Cleaner,Wet Mop Clip - Refill,NO, 65.00 ,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4, -   
+127,CCL-NYLBSH1,Cleaning Consumables,Cleaner,Nylon Brush with Handle,NO, 245.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+128,CCL-NYLBSH2,Cleaning Consumables,Cleaner,WC Brush Nylon,NO, 35.00 ,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4, -   
+129,CCL-NYLBSH3,Cleaning Consumables,Cleaner,Carpet Cleaning Brush,NO, 30.00 ,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2, -   
+130,CCL-GLSAPTR,Cleaning Consumables,Cleaner,Glass Applicatore & Squeezer,NO, 180.00 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+131,CCL-TOLPMP,Cleaning Consumables,Cleaner,Toilet Pump,NO, 99.00 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+132,CCL-SFTBROM,Cleaning Consumables,Cleaner,Soft Broom,NO, 19.00 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+133,CCL-HRDBROM,Cleaning Consumables,Cleaner,Hard Broom,NO, 12.00 ,2,1,1,,,,,1,,,,,,,,,,,,,1,,,,,,1,,1,,,,,5,6,1, 72.00 
+134,CCL-YLWSPNG,Cleaning Consumables,Cleaner,Yellow Sponge,NO, 5.00 ,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5, -   
+135,CCL-PATBLD3,Cleaning Consumables,Cleaner,Patti Blade 3inch,NO, 8.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+136,CCL-PATBLD4,Cleaning Consumables,Cleaner,Patti Blade 4Inch,NO, 12.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+137,CCL-PATBLD6,Cleaning Consumables,Cleaner,Patti Blade 6Inch,NO, 15.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+138,CCL-SCRBRT,Cleaning Consumables,Cleaner,Scrotch Brite,NO, 15.00 ,1,,,,,1,,,,,,,,,2,,,,,1,,1,,2,,,,,,,,,,10,7,4, 105.00 
+139,CCL-WHTSPNG,Cleaning Consumables,Cleaner,White Sponge,BX, 640.00 ,0,,,,,,,,1,,,,,1,,,,,,,,5,1,,,,,,,1,,,,10,9,1," 5,760.00 "
+140,CGL-RGLVRED,Cleaning Consumables,Gloves,Rubber Hand Gloves - Red,ST, 100.80 ,2,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,1,,,,3,3,2, 302.40 
+141,CGL-RGLVGRN,Cleaning Consumables,Gloves,Rubber Hand Gloves - Green,ST, 100.80 ,2,1,1,,,,,1,,,,,,,,,,,,,1,,,,,,1,,1,,,,,5,6,1, 604.80 
+142,CGL-RGLVBLU,Cleaning Consumables,Gloves,Rubber Hand Gloves - Blue,ST, 100.80 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+143,CGL-SRGGLV,Cleaning Consumables,Gloves,Surgical Gloves ,BX, 0.85 ,56,1,1,,,3,1,1,2,3,,,,2,1,,1,2,,4,1,7,2,1,,,1,1,1,2,3,,,40,41,55, 34.73 
+144,CGL-CTNGLV,Cleaning Consumables,Gloves,Cotton Gloves (White),ST, 15.00 ,12,,,,,1,,,1,,,,,1,,,1,,,,1,,1,,,,1,,,1,,,,10,8,14, 120.00 
+145,CGL-DISPGLV,Cleaning Consumables,Gloves,Disposal Plastic Gloves,ST, 187.00 ,2,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,1, 187.00 
+146,CPC-HEDCP,Cleaning Consumables,Personal Care,Head Cap,NO, 142.00 ,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2, -   
+147,CPC-FCEMSK,Cleaning Consumables,Personal Care,Face Mask,NO, 113.00 ,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2, -   
+148,CPC-FCETISE,Cleaning Consumables,Personal Care,Facial Tissue Box,BX, 53.00 ,4,,,,,,,,1,,,,,1,,,,,,,1,,1,,,,,,,1,,,,2,5,1, 265.00 
+149,CTW-KITTWL,Cleaning Consumables,Towels,Kitchen Towel,NO, 25.00 ,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2, -   
+150,CTW-GLSCLT,Cleaning Consumables,Towels,Glass Cloth,NO, 10.00 ,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,0, 10.00 
+151,CTW-YLWCLT,Cleaning Consumables,Towels,Yellow Cloth,NO, 10.00 ,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2, -   
+152,CTW-MFCRED,Cleaning Consumables,Towels,Micro Fiber Cloth - Red,NO, 12.00 ,1,,,,,,1,,,,,,,1,,,,,,1,,,1,,,,,1,,,,,,5,5,1, 60.00 
+153,CTW-MFCBLU,Cleaning Consumables,Towels,Micro Fiber Cloth - Blue,NO, 12.00 ,1,,,,,,,,1,,,,,,1,,,,,,,,,1,,,,,,1,,,,5,4,2, 48.00 
+154,CTW-MFCGRN,Cleaning Consumables,Towels,Micro Fiber Cloth - Green,NO, 12.00 ,5,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,,,,,,,2,3, 24.00 
+155,CTW-MFCWHT,Cleaning Consumables,Towels,Micro Fiber Cloth - White,NO, 12.00 ,4,,,,,,,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,2,2, 24.00 
+156,SBG-SLEEVXM,Stationaries,Bags ,Laptop Sleeves - Small ,NO, 750.00 ,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,18, -   
+157,SBG-SLEEVXL,Stationaries,Bags ,Laptop Sleeves - Big,NO, 770.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+158,SBY-DBTRYAA,Stationaries,Battery,AA Battery - Duracel,NO, 42.00 ,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,18, -   
+159,SBY-DBTRYAAA,Stationaries,Battery,AAA Battery - Duracel,NO, 81.75 ,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3, -   
+160,SBY-DBTRY9V,Stationaries,Battery,9V Battery - Duracel,NO, 137.00 ,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,15, -   
+161,SCT-CIGI790,Stationaries,Cartridges & Toners,Canon Ink - GI790,NO, 470.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+162,SCT-TR328B,Stationaries,Cartridges & Toners,Canon Toner - HV 328 (Black),NO," 1,550.00 ",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+163,SCP-BDR12M,Stationaries,Clips & Pins,Binder Clip - 12mm,NO, 15.00 ,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,25, -   
+164,SCP-BDR19M,Stationaries,Clips & Pins,Binder Clip - 19mm,NO, 25.00 ,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,25, -   
+165,SCP-BDR25M,Stationaries,Clips & Pins,Binder Clip - 25mm,NO, 32.00 ,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,25, -   
+166,SCP-BDR32M,Stationaries,Clips & Pins,Binder Clip - 32mm,NO, 42.00 ,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,25, -   
+167,SCP-GEMCLP,Stationaries,Clips & Pins,Gem Clips,NO, 55.00 ,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4, -   
+168,SCP-BRDPIN,Stationaries,Clips & Pins,Soft Board Pins,NO, 79.00 ,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2, -   
+169,SEN-A4ENVAD,Stationaries,Envelopes,A4 Envelopes with Adhesive,NO, 6.00 ,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,100, -   
+170,SEN-A4ENVLO,Stationaries,Envelopes,A4 Envelopes with (Logo),NO, 18.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+171,SEN-A4ENVGN,Stationaries,Envelopes,A4 Envelopes (Green),NO, 2.38 ,300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,300, -   
+172,SEN-PSENVGN,Stationaries,Envelopes,Postal Envelopes (Green),NO, 1.00 ,300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,300, -   
+173,SEN-PSENVLO,Stationaries,Envelopes,Postal Envelopes (Logo),NO, 12.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+174,SFF-SHTPTR,Stationaries,Files & Folders,Sheet Protector,NO, 1.50 ,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,100, -   
+175,SFF-LFOLDR,Stationaries,Files & Folders,L Folder - Transparent,NO, 9.00 ,180,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,180, -   
+176,SFF-SPNGFL,Stationaries,Files & Folders,Plastic Spring File,NO, 20.00 ,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,13, -   
+177,SFF-FLFOLD,Stationaries,Files & Folders,File Folder with Sheet Protector,NO, 280.00 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+178,SFF-BOXFL,Stationaries,Files & Folders,Box File,NO, 55.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+179,SFF-ONBFL,Stationaries,Files & Folders,Onboarding Files,NO, 295.00 ,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,17, -   
+180,SMS-SCNWP,Stationaries,Miscellaneous,Screen Wips,NO, 459.00 ,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,10, -   
+181,SMS-SCISMD,Stationaries,Miscellaneous,Scissor - Medium,NO, 48.00 ,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6, -   
+182,SMS-SCISLG,Stationaries,Miscellaneous,Scissor - Large,NO, 58.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+183,SMS-CTTRLG,Stationaries,Miscellaneous,Paper Cutter - Large,NO, 32.00 ,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6, -   
+184,SMS-CTTRSM,Stationaries,Miscellaneous,Paper Cutter - Small,NO, 18.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+185,SMS-NYLTIE8,Stationaries,Miscellaneous,Nylon Cable Tie - 8 Inch,NO, 1.09 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+186,SMS-NYLTIE4,Stationaries,Miscellaneous,Nylon Cable Tie - 6 Inch,NO, 0.72 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+187,SMS-STLWB,Stationaries,Miscellaneous,Water Bottle (Steel),NO, 210.00 ,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,80, -   
+188,SNT-NOTEA5,Stationaries,Notes,A5 Notebook (Logo),NO, 112.50 ,196,1,,,,,,1,,,,,,1,,,,,,,,,1,,,,,1,,,,,,,5,191, 562.50 
+189,SNT-POSTMC,Stationaries,Notes,3M Post It - 2 x 1  (Multi Color),NO, 12.00 ,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,15, -   
+190,SNT-POST3X2,Stationaries,Notes,3M Post It - 3 x 2 ,NO, 20.00 ,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,7, -   
+191,SNT-POST3X3,Stationaries,Notes,3M Post It - 3 x 3,NO, 28.00 ,0,1,,,,,,1,,,,,,1,,,,,,,,,1,,,,,1,,,,,,5,5,0, 140.00 
+192,SNT-POST3X4,Stationaries,Notes,3M Post It - 3 x 4,NO, 36.00 ,0,,1,,,,,,1,,,,,,1,,,,,,,,,1,,,,,1,,,,,5,5,0, 180.00 
+193,SNT-PLNRGST,Stationaries,Notes,Plain Register ,NO, 18.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+194,SNT-STKRGST,Stationaries,Notes,Stock Register - 100 Pages,NO, 28.00 ,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2, -   
+195,SNT-ATTRGST,Stationaries,Notes,Attendance Register - 100 Pages,NO, 28.00 ,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1, -   
+196,SPM-FVIKWK,Stationaries,Packing Materials,Fevikwick,NO, 30.00 ,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,31, -   
+197,SPM-GLUSTK8,Stationaries,Packing Materials,Glue Stick - 8gm,NO, 18.00 ,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,19, -   
+198,SPM-STRHD10,Stationaries,Packing Materials,Stapler HD 10,NO, 52.00 ,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,14, -   
+199,SPM-STRPINS,Stationaries,Packing Materials,Staples 10-1M (Pins),NO, 28.00 ,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,45, -   
+200,SPM-STRHD45,Stationaries,Packing Materials,Stapler HP 45,NO, 125.00 ,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4, -   
+201,SPM-STRPIN24,Stationaries,Packing Materials,Stapler HP 24/6 (Pins),NO, 43.60 ,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,20, -   
+202,SPM-PUNG52,Stationaries,Packing Materials,Punching Machine DP-52,NO, 50.00 ,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5, -   
+203,SPM-TTAPE1,Stationaries,Packing Materials,Transparent Tape - 1 Inch,NO, 14.00 ,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,12, -   
+204,SPM-TTAPE2,Stationaries,Packing Materials,Transparent Tape - 2 Inch,NO, 22.00 ,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,123, -   
+205,SPM-BTAPE2,Stationaries,Packing Materials,Brown Tape - 2 Inch,NO, 22.00 ,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,12, -   
+206,SPM-DSTAPE,Stationaries,Packing Materials,Double Side Tape - Foam,NO, 18.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+207,SPP-MRKRBU,Stationaries,Pens & Pencils,Whiteboard Marker - Blue,NO, 28.00 ,3,2,2,,,,,2,2,,,,,2,2,,,,,,,,2,2,,,,2,2,,,,,20,20,3, 560.00 
+208,SPP-MRKRBL,Stationaries,Pens & Pencils,Whiteboard Marker - Black,NO, 28.00 ,93,1,,,,,,1,,,,,,1,,,,,,,,,1,,,,,1,,,,,,,5,88, 140.00 
+209,SPP-MRKRRD,Stationaries,Pens & Pencils,Whiteboard Marker - Red,NO, 28.00 ,2,,2,,,,,,2,,,,,,2,,,,,,,,,2,,,,,2,,,,,10,10,2, 280.00 
+210,SPP-MRKRGN,Stationaries,Pens & Pencils,Whiteboard Marker - Green,NO, 28.00 ,1,2,2,,,,,2,2,,,,,2,2,,,,,,,,2,2,,,,2,2,,,,,20,20,1, 560.00 
+211,SPP-OHPBLU,Stationaries,Pens & Pencils,OHP Marker - Blue,NO, 18.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+212,SPP-OHPBLK,Stationaries,Pens & Pencils,OHP Marker - Black,NO, 18.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+213,SPP-OHPRED,Stationaries,Pens & Pencils,OHP Marker - Red,NO, 18.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+214,SPP-OHPGRN,Stationaries,Pens & Pencils,OHP Marker - Green,NO, 18.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+215,SPP-SHRPIE,Stationaries,Pens & Pencils,Sharpie Marker Fine,NO, 80.00 ,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,34, -   
+216,SPP-HGHLTR1,Stationaries,Pens & Pencils,Highlighter Pen (Mulitcolor),NO, 17.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+217,SPP-HGHLTR0,Stationaries,Pens & Pencils,Highlighter Pen (Singlecolor),NO, 17.00 ,0,1,,,,,,1,,,,,,1,,,,,,,,,1,,,,,1,,,,,,5,5,0, 85.00 
+218,SPP-CELLBLU,Stationaries,Pens & Pencils,Cello Pen - Blue,NO, 5.00 ,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,10, -   
+219,SPP-CELLBLK,Stationaries,Pens & Pencils,Cello Pen - Black,NO, 5.00 ,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,200, -   
+220,SPP-CELLRED,Stationaries,Pens & Pencils,Cello Pen - Red,NO, 5.00 ,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,25, -   
+221,SPP-GELBLU,Stationaries,Pens & Pencils,Gel Pen - Blue,NO, 10.00 ,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,49, -   
+222,SPP-CRTNPN,Stationaries,Pens & Pencils,Correction Pen,NO, 35.00 ,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,15, -   
+223,SPP-NJPENL,Stationaries,Pens & Pencils,Natraj Pencil,NO, 2.80 ,79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,79, -   
+224,SPP-ERASR,Stationaries,Pens & Pencils,Eraser,NO, 1.00 ,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,24, -   
+225,SPP-SHPNR,Stationaries,Pens & Pencils,Sharpner,NO, 3.00 ,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5, -   
+226,SPP-SSCAL24,Stationaries,Pens & Pencils,"Scale - 24""  (Steel)",NO, 20.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+227,SPP-PSCAL24,Stationaries,Pens & Pencils,"Scale - 24""  (Plastic)",NO, 48.00 ,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0, -   
+228,SPP-WBDSTR,Stationaries,Pens & Pencils,White Board Duster,NO, 28.00 ,1,1,1,,,,,1,1,,,,,1,1,,,,,,,,1,1,,,,1,1,,,,,10,10,1, 280.00 
+229,SPP-PENSTD,Stationaries,Pens & Pencils,Pen Stand (Round),NO, 85.00 ,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6, -   
+230,SXP-A4BNDPR,Stationaries,Xerox Papers,A4 Copier - Bond Paper,NO, 218.00 ,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4, -   
+231,SXP-A4JKCPR,Stationaries,Xerox Papers,A4 JK Copier,NO, 179.00 ,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2, -   
