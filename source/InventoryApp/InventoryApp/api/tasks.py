@@ -2,12 +2,12 @@ import os
 import csv
 import time
 import json
-from datetime import datetime
+from datetime import datetime,date
 
 from InventoryApp.product_catalogue.models import  *
 from .AbbyyOnlineSdk import *
 from .process_table_data import process_table_data
-from InventoryApp.stock.models import StockIn
+from InventoryApp.stock.models import StockIn,StockOut
 processor = None
 
 def process_stock_ins():
@@ -32,9 +32,15 @@ def process_stock_ins():
                             product = None
                             product_unit = None
                             if row:
+                                august_month_stock_in_date = datetime.strptime('2019-01-01 00:00:00', '%Y-%m-%d %H:%M:%S')
+                                print(august_month_stock_in_date)
+                                print('Product code: ',row.get('Product Code'))
+                                print('COST/UNIT: ',row.get(' COST/UNIT '))
+
                                 stock_in = StockIn()
+
                                 product_code = row.get('Product Code')
-                                cost_per_unit  = 0 if not row.get('COST/UNIT') else float(row.get('COST/UNIT'))
+                                cost_per_unit  = 0 if not row.get(' COST/UNIT ') else float(row.get(' COST/UNIT ').strip().replace(',',''))
                                 opening_bal = 0 if not row.get('OPG. BAL') else int(row.get('OPG. BAL'))
                                 stock_received = 0 if not row.get('Stock Receipt') else int(row.get('Stock Receipt'))
                                 total_units = opening_bal + stock_received
@@ -45,23 +51,59 @@ def process_stock_ins():
                                         code = row.get('UOM')
                                     print('Product UOM - {}'.format(code))
                                     product_unit = ProductUnit.objects.get(code = code)
-
-                                    print('Product details - {}; {}'.format(row.get('OPG. BAL'), row.get('COST/UNIT')))
-                                    
                                     stock_in.product_item = product
                                     stock_in.unit = product_unit
                                     stock_in.cost_per_unit = cost_per_unit
                                     stock_in.total_units = total_units
                                     stock_in.total = stock_in.total_cost
-                                    stock_in.tax = 0
-                                    stock_in.entry_date = '2019-01-01'
-                                    # stock_in.save()
+                                    stock_in.tax = 0.0
+                                    stock_in.entry_date = august_month_stock_in_date
+                                    stock_in.save()
                                     print('Product saved - {}'.format(product_code))
-                                
                                 except Exception as e:
                                     print('Product save ERROR - {}; error - {}'.format(product_code, e))
-                                
+                    # Insert Stock Outs
+                    insert_stock_outs(csv_reader)
 
+def insert_stock_outs(csv_reader):
+    print("inside the stock outs")
+    line_count = 0
+    for row in csv_reader:
+        product = None
+        row = dict(row)
+        print('each row: ',row)
+        if line_count == 0:
+            print("header: ", row)
+            line_count +=1
+        else:
+            if row:
+                product = None
+                product_unit = None
+                product_code = row.get('Product Code')
+                cost_per_unit  = 0 if not row.get(' COST/UNIT ') else float(row.get(' COST/UNIT ').strip().replace(',',''))
+                try:
+                    product = Product.objects.get(code=product_code)
+                    code = ''
+                    if row.get('UOM'):
+                        code = row.get('UOM')
+                        product_unit = ProductUnit.objects.get(code = code)
+                    for key in range(1,32):
+                        key = format(key,'02')
+                        if row.get(key):
+                            out_date = '{}{}{}'.format('2019-01-',key,' 00:00:00')
+                            out_date_datetime = datetime.strptime(out_date, '%Y-%m-%d %H:%M:%S')
+                            stock_out = StockOut()
+                            print("product: \n",product,product_unit,cost_per_unit,int(row.get(key)),out_date_datetime)
+
+                            stock_out.product_item = product
+                            stock_out.unit = product_unit
+                            stock_out.cost_per_unit = cost_per_unit
+                            stock_out.total_units = int(row.get(key))
+                            stock_out.out_date = out_date_datetime
+                            stock_out.total = stock_out.total_cost
+                            stock_out.save()
+                except Exception as e:
+                    print('Product save ERROR - {}; error - {}'.format(product_code, e))
 
 
 def process_input_file():
@@ -109,9 +151,8 @@ def process_input_file():
                                 if row.get('UOM'):
                                     code = row.get('UOM')
                                     try:
-                                        product_unit = ProductUnit.objects.get(code = code)
+                                        product_unit, created = ProductUnit.objects.get_or_create(code = code)
                                     except:
-                                        product_unit = None
                                         print('Product failed to add -  {}'.format(prod_code))
 
                                 product.code = prod_code
