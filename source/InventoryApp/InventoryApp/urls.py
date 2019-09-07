@@ -25,6 +25,7 @@ from django.views.generic import TemplateView
 urlpatterns = [
     url(r'^stock/', include('InventoryApp.stock.urls')),
     url(r'^product_catalogue/', include('InventoryApp.product_catalogue.urls')),
+    url(r'^jet/', include('jet.urls', 'jet')),  # Django JET URLS
     url(r'^admin/', admin.site.urls),
     url(r'^$', TemplateView.as_view(template_name='index.html')),
     path('api', include('InventoryApp.api.urls')),
