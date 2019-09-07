@@ -32,7 +32,7 @@ def get_category_wise_expenses(request):
     # Write your data import logic below
     select_date = {"date": """strftime('%%m/%%Y', out_date)"""}
     category_total_cost = list(StockOut.objects.extra(select=select_date).values('date').annotate(grand_category_total = Sum('total')))
-    
+
     monthly_expenses_category_wise = list()
     monthly_obj = {}
     # print('Result- {}'.format(category_total_cost))
@@ -46,11 +46,53 @@ def get_category_wise_expenses(request):
         for category in all_items:
             monthly_obj['date']=item.get('date')
             monthly_obj[category.get('product_item__category__desc')]=category.get('grand_category_total')
-        
+
         monthly_expenses_category_wise.append(monthly_obj)
-        
-    return JsonResponse(monthly_expenses_category_wise, safe=False) 
+
+    return monthly_expenses_category_wise
+
+def daily_consumables(request):
+    current_month = datetime.now().month
+    current_year = datetime.now().year
+
+    stocks = StockOut.objects.filter(
+        out_date__year=current_year,
+        out_date__month=current_month
+    )
+
+    count = 0
+    # while stocks.count() == 0:
+
+    #     stocks = StockOut.objects.filter(
+    #         out_date__year=current_year,
+    #         out_date__month=current_month
+    #     )
+
+    #     if count > 10:
+    #         break
+
+    #     count += 1
+
+    #     current_month = current_month-1
+
+    #     if current_month == 0:
+    #         current_month = 12
+    #         current_year = current_year-1
+
+    # stocks_total = stocks.values_list('total', flat=True)
+
+    data = []
+    # for total in stocks_total:
+    #     data.append(float(total))
 
 
 
+    return data
 
+def get_all_data(request):
+    return_data = {
+        'daily_consumables': daily_consumables(request),
+        'category_expenses': get_category_wise_expenses(request)
+    }
+
+    return JsonResponse(return_data, safe=False)
