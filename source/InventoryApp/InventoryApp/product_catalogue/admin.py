@@ -96,7 +96,7 @@ class ProductAdmin(admin.ModelAdmin):
         ))
 
     qr_code_image.allow_tags = True
-    qr_code_image.short_description = 'Column description'
+    qr_code_image.short_description = 'QR Code'
 
 
     class Meta:

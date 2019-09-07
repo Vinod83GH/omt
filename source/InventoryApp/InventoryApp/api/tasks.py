@@ -141,13 +141,13 @@ def process_input_file():
                                 if row.get('Category'):
                                     cat = row.get('Category')
                                     if cat == 'Pantry':
-                                        product_cat = ProductCategory.objects.get(code='PANTRY-CONSUMES')
+                                        product_cat, created = ProductCategory.objects.get_or_create(code='PANTRY-CONSUMES')
                                     if cat == 'Toiletries':
-                                        product_cat = ProductCategory.objects.get(code='TOILETRIES')
+                                        product_cat, created = ProductCategory.objects.get_or_create(code='TOILETRIES')
                                     if cat == 'Cleaning Consumables':
-                                        product_cat = ProductCategory.objects.get(code='CLEANING-CONSUMES')
+                                        product_cat, created = ProductCategory.objects.get_or_create(code='CLEANING-CONSUMES')
                                     if cat == 'Stationaries':
-                                        product_cat = ProductCategory.objects.get(code='STATIONARY')
+                                        product_cat, created = ProductCategory.objects.get_or_create(code='STATIONARY')
                                 if row.get('UOM'):
                                     code = row.get('UOM')
                                     try:
@@ -184,7 +184,7 @@ def process_ocr_image():
         count = 0
         for input_file in files_in_dir:
             target_file=''
-            target_file = '{}{}{}'.format('result',count,'.txt') 
+            target_file = '{}{}{}'.format('result',count,'.txt')
             source_file = '{}{}'.format(dir_path,input_file)
             target_file = '{}{}'.format(output_dir_path,target_file)
             if os.path.isfile(source_file):
