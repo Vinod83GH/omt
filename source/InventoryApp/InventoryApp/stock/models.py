@@ -14,9 +14,11 @@ class StockIn(models.Model):
     cost_per_unit = models.DecimalField(max_digits=10, decimal_places=2)
     total_units = models.IntegerField(default=0)
     tax = models.DecimalField(max_digits=4, decimal_places=2)
+    total = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     manufacturing_date = models.DateTimeField(null=True, blank=True)
     expiry_days = models.IntegerField(default=0)
     entry_date = models.DateTimeField(null=False, editable=False, default=datetime.now)
+    
     
     @property
     def total_cost(self):
@@ -31,6 +33,7 @@ class StockOut(models.Model):
     unit = models.ForeignKey(ProductUnit, on_delete=models.CASCADE)
     cost_per_unit = models.DecimalField(max_digits=10, decimal_places=2)
     total_units = models.IntegerField(default=0)
+    total = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     out_date = models.DateTimeField(null=False, default=datetime.now, editable=False)
     
     @property
@@ -46,6 +49,7 @@ class StockBalance(models.Model):
     unit = models.ForeignKey(ProductUnit, on_delete=models.CASCADE)
     cost_per_unit = models.DecimalField(max_digits=10, decimal_places=2)
     total_units = models.IntegerField(default=0)
+    total = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     
     @property
     def total_cost(self):
@@ -98,7 +102,7 @@ def update_stock_balance(sender, instance, created, **kwargs):
         return
 
     try:
-        balance.total_units -= instance.total_units
+        balance.total_units -= int(instance.total_units)
         balance.save()
         
         print('Stock balance updated for - {}'.format(instance.id))

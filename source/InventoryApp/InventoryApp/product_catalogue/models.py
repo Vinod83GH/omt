@@ -1,11 +1,20 @@
 '''UserNotification related models'''
 from django.db import models
 from django.conf import settings
+# from InventoryApp.stock.models import StockOut
 
 class ProductCategory(models.Model):
     '''Product category'''
     code = models.CharField(max_length=50, null=False, unique=True)
     desc = models.CharField(max_length=500, null=True)
+    
+    # @property
+    # def total_cost(self):
+    #     StockOut.objects.
+    #     if not self.cost_per_unit:
+    #         return 0
+        
+    #     return '{}'.format(self.cost_per_unit * self.total_units)
     
     def __str__(self):
         return '{}'.format(self.desc)
