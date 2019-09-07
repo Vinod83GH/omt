@@ -14,10 +14,10 @@ class StockInAdmin(admin.ModelAdmin):
     
     list_display = (
         'product_item',
+        'get_category',  
         'cost_per_unit',
         'unit',
         'total_units',
-        # 'get_unit_desc',
         'tax',
         'total_cost',
         'entry_date'
@@ -29,17 +29,11 @@ class StockInAdmin(admin.ModelAdmin):
 
     search_fields = ['product_item__code','product_item__desc', 'product_item__category__desc']
 
-    # def get_product_desc(self, obj):
-    #     return obj.product_item.desc
-
-    # def get_unit_desc(self, obj):
-    #     return obj.unit.desc
-
-    # get_product_desc.short_description = 'Product'
-    # get_product_desc.boolean = True
-    
-    # get_unit_desc.short_description = 'Unit'
-    # get_unit_desc.boolean = True
+    def get_category(self, obj):
+        if not obj.product_item.category:
+            return ''
+        
+        return str(obj.product_item.category)
 
     class Meta:
         model = StockIn
@@ -52,6 +46,7 @@ class StockOutAdmin(admin.ModelAdmin):
     
     list_display = (
         'product_item',
+        'get_category',        
         'unit',
         'cost_per_unit',
         'total_units',
@@ -64,6 +59,12 @@ class StockOutAdmin(admin.ModelAdmin):
     ]
 
     search_fields = ['product_item__code','product_item__desc', 'product_item__category__desc']
+    
+    def get_category(self, obj):
+        if not obj.product_item.category:
+            return ''
+        
+        return str(obj.product_item.category)
 
     class Meta:
         model = StockOut

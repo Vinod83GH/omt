@@ -2,11 +2,12 @@ import os
 import csv
 import time
 import json
+from datetime import datetime
 
 from InventoryApp.product_catalogue.models import  *
 from .AbbyyOnlineSdk import *
 from .process_table_data import process_table_data
-
+from InventoryApp.stock.models import StockIn
 processor = None
 
 def process_stock_ins():
@@ -33,19 +34,33 @@ def process_stock_ins():
                             if row:
                                 stock_in = StockIn()
                                 product_code = row.get('Product Code')
+                                cost_per_unit  = 0 if not row.get('COST/UNIT') else float(row.get('COST/UNIT'))
+                                opening_bal = 0 if not row.get('OPG. BAL') else int(row.get('OPG. BAL'))
+                                stock_received = 0 if not row.get('Stock Receipt') else int(row.get('Stock Receipt'))
+                                total_units = opening_bal + stock_received
                                 try:
                                     product = Product.objects.get(code=product_code)
+                                    code = ''
+                                    if row.get('UOM'):
+                                        code = row.get('UOM')
+                                    print('Product UOM - {}'.format(code))
+                                    product_unit = ProductUnit.objects.get(code = code)
+
+                                    print('Product details - {}; {}'.format(row.get('OPG. BAL'), row.get('COST/UNIT')))
+                                    
+                                    stock_in.product_item = product
+                                    stock_in.unit = product_unit
+                                    stock_in.cost_per_unit = cost_per_unit
+                                    stock_in.total_units = total_units
+                                    stock_in.total = stock_in.total_cost
+                                    stock_in.tax = 0
+                                    stock_in.entry_date = '2019-01-01'
+                                    # stock_in.save()
+                                    print('Product saved - {}'.format(product_code))
+                                
                                 except Exception as e:
-                                    product = None
-                                if row.get('UOM'):
-                                    code = row.get('UOM')
-                                    try:
-                                        product_unit = ProductUnit.objects.get(code = code)
-                                    except:
-                                        product_unit = None
-                                stock_in.product_item = product
-                                stock_in.unit = product_unit
-                                total_units = row.get('OPG. BAL')
+                                    print('Product save ERROR - {}; error - {}'.format(product_code, e))
+                                
 
 
 
@@ -97,6 +112,7 @@ def process_input_file():
                                         product_unit = ProductUnit.objects.get(code = code)
                                     except:
                                         product_unit = None
+                                        print('Product failed to add -  {}'.format(prod_code))
 
                                 product.code = prod_code
                                 product.desc = row.get('ITEMS','')
