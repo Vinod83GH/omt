@@ -14,12 +14,18 @@ from django.http import JsonResponse
 class ProductFormView(View):
 
     template_name = "product_form.html"
+    error_template_name = "error.html"
 
     def get(self, request, product_code, **kwargs):
         try:
             stockbal = StockBalance.objects.filter(
                 product_item__code=product_code
             )
+
+            if not stockbal:
+                return render(request, self.error_template_name, {
+                    'fail_message': 'Stock Balance Record Not Found'
+                })
 
             info = self.get_stock_info()
 
@@ -98,7 +104,7 @@ class ProductFormView(View):
             unit=unit,
             cost_per_unit=cost_per_unit,
             total_units=int(no_of_items),
-            # total=cost_per_unit * no_of_items
+            total=float(cost_per_unit) * float(no_of_items)
         )
 
     def stock_in(self, request, stockbal, product_code, no_of_items):
@@ -118,5 +124,5 @@ class ProductFormView(View):
             total_units=int(no_of_items),
             expiry_days=expiry_days,
             manufacturing_date=manufacturing_date + ' 00:00:00',
-            # total=cost_per_unit * no_of_items
+            total=float(cost_per_unit) * float(no_of_items)
         )

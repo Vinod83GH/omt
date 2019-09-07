@@ -1,6 +1,10 @@
 jQuery(document).ready(function($) {
     $('.no_of_items').val($('.balance-js').text());
 
+    setTimeout(function() {
+        $(".alert:visible").fadeOut('slow');
+    }, 2000);
+
     $('.increase-stock').click(function() {
         var stock_val = parseInt($('.no_of_items').val());
         var remaining = parseInt($('.balance-js').text());

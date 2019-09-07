@@ -4,7 +4,7 @@
 <p>&nbsp;</p>
 <div class="row">
     <div class="col">
-        <h1>Product Information</h1>
+        <h1>Stock In/Out</h1>
         <hr />
     </div>
 </div>
@@ -23,7 +23,7 @@
 </div>
 {% endif %}
 
-<div class="row">
+<div class="row product_form">
     <div class="col">
         <form action="" method="post">
             {% csrf_token %}
@@ -116,7 +116,7 @@
 
             <div class="form-group row">
                 <label for="staticEmail" class="col-sm-2 col-form-label">No. Of Items</label>
-                <div class="col-sm-2">
+                <div class="col-sm-3">
                     <div class="input-group mb-3">
                         <div class="input-group-prepend alert-danger">
                             <button class="btn btn-outline-secondary decrease-stock" type="button" id="button-addon1">-</button>

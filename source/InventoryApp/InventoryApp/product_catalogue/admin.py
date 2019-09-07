@@ -2,6 +2,8 @@
 from __future__ import unicode_literals
 
 from django.contrib import admin
+from django.conf import settings
+from django.utils.html import format_html
 from InventoryApp.product_catalogue.models import Product, ProductCategory, ProductSubCategory, ProductUnit
 
 # Register your models here.
@@ -30,7 +32,7 @@ class ProductCategoryAdmin(admin.ModelAdmin):
 
 class ProductSubCategoryAdmin(admin.ModelAdmin):
     raw_id_fields = ('category', )
-    
+
     list_display = (
         'category',
         'code',
@@ -68,7 +70,7 @@ class ProductUnitAdmin(admin.ModelAdmin):
 
 class ProductAdmin(admin.ModelAdmin):
     raw_id_fields = ('category', )
-    
+
     list_display = (
         'code',
         'desc',
@@ -76,7 +78,8 @@ class ProductAdmin(admin.ModelAdmin):
         'category',
         'default_unit',
         'default_cost',
-        'minimum_balance'
+        'minimum_balance',
+        'qr_code_image'
     )
 
     list_filter = [
@@ -84,6 +87,17 @@ class ProductAdmin(admin.ModelAdmin):
     ]
 
     search_fields = ['code','desc', 'category__desc', 'brand']
+
+    def qr_code_image(self, obj):
+        return format_html('<img src="{}.png" width="150" style="cursor: pointer;" onclick="newWindow = window.open(\'{}.png\');" /><p><a href="javascript:void(0);" onclick="newWindow = window.open(\'{}.png\'); newWindow.print();">Print</a></p>'.format(
+            settings.MEDIA_URL + 'QR_CODES/' + str(obj.id),
+            settings.MEDIA_URL + 'QR_CODES/' + str(obj.id),
+            settings.MEDIA_URL + 'QR_CODES/' + str(obj.id)
+        ))
+
+    qr_code_image.allow_tags = True
+    qr_code_image.short_description = 'Column description'
+
 
     class Meta:
         model = Product
