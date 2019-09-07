@@ -1,0 +1,115 @@
+﻿                                                                   Officepulse Technology Private Limited                                                                                                            
+                                                                                                                                                                                                                     
+                                                                                                                                                                                                                     
+                                                                   204, 7C Block, Provident Sunworth                                                                                                                 
+                                                                   Venkatapura                                                                                                                                       
+                                                                   Bangalore Karnataka 560060                                                                                                                        
+                                                                   India                                                                                                                         TAX INVOICE        
+                                                                   GSTIN 29AACCO6177D1ZA                                                                                                                            
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                     
+                                                                                                                                                                                                                     
+ #                                                            :5678902518                                      Place Of Supply                                                        : Bengaluru                    
+ Invoice Date                                                 : Jul, 01,2019                                                                                                                                         
+ Terms                                                        : Due on Receipt                                                                                                                                       
+ Due Date                                                     : Jul, 08, 2019                                                                                                                                        
+ P.O.#                                                        :1906263163                                                                                                                                            
+                                                                                                                                                                                                                     
+                                                                                                                                                                                                                     
+                                                         Bill To                                                                                                            Ship To                                  
+                                                                                                                                                                                                                     
+ GALE Creative Agency                                                                                          GALE Creative Agency                                                                                  
+ GALE Creative Agency Pvt Ltd                                                                                  GALE Creative Agency Pvt Ltd                                                                          
+                                                                                                                                                                                                                     
+ GSTIN: 29AAFCG9657B1ZC                                                                                        #3/1, Ground Floor, JP Techno Park, Millers Tank Bund Road, Vasanthnagar, Bangalore                   
+ #3/1, Ground Floor, JP Techno Park, Millers Tank Bund Road, Vasanthnagar. Bangalore                           560052                                                                                                
+                                                                                                                                                                                                                     
+                                                                                                                                                                                                                     
+ 560052                                                                                                        560052                                                                                                
+                                                                                                                                                                                                                     
+                                                                                                                                                                                                                     
+                                                                                                                                                                                                                     
+                                                                                                                                                                          CGST             SGST                      
+#   Item & Description                                                                     Hsn      Qty         ? Price                                                        Amt (%)           Amt (%)   Amount    
+1   Solo RF 101 Report File (A4, Blue) - (Unit)                                            3926     10          33.90                                             30.51 (9.00)             30.51 (9.00)    339.00    
+    Out of company catalog                                                                                                                                                                                           
+2   Himalaya Herbals Purifying Neem Face Wash - 100 ml.                                    3304     2           102.50                                            18.45 (9.00)             18.45 (9.00)    205.00    
+    (Unit)                                                                                                                                                                                                           
+3   Himalaya Herbals Deep Cleansing Apricot Face Wash -100                                 3304     5           107.60                                            48.42 (9.00)             48.42 (9.00)    538.00    
+    ml. (Unit)                                                                                                                                                                                                       
+4   Nissin Cup Noodles (Masala) - 70 gm. (Pack)                                            1902     35          35.70                                             74.97 (6.00)             74.97 (6.00)    1249.50   
+5   YogaBar Multigrain Energy Bar (Chocolate Chunk Nut) - 38                               9099     20          33.90                                             61.02 (9.00)             61.02 (9.00)    678.00    
+    gm. (Unit)                                                                                                                                                                                                       
+6   YogaBar Multigrain Energy Bar (Nuts and Seeds) - 38 gm.                                9099     20          33.90                                             61.02 (9.00)             61.02 (9.00)    678.00    
+    (Unit)                                                                                                                                                                                                           
+7   YogaBar Multigrain Energy Bar (Orange Cashew) - 38 gm.                                 9099     20          33.90                                             61.02 (9.00)             61.02 (9.00)    678.00    
+    (Unit)                                                                                                                                                                                                           
+8   Sunfeast Dark Fantasy Choco Fills - 75 gm. (Unit)                                      1905     25          25.40                                             57.15 (9.00)             57.15 (9.00)    635.00    
+9   Cadbury Oreo Biscuit (Choco Creme) -120 gm. (Pack)                                     1905     20          25.40                                             45.72 (9.00)             45.72 (9.00)    508.00    
+    Out of company catalog                                                                                                                                                                                           
+10  Britannia Treat Jim Jam Cream Biscuits - 150 gm. (Pack)                                1905     25          25.40                                             57.15 (9.00)             57.15 (9.00)    635.00    
+    Out of company catalog                                                                                                                                                                                           
+11  OH Hand Gloves - Latex. (Unit)                                                         4015     2           100.80                                            18.14(9.00)              18.14(9.00)     201.60    
+    Out of company catalog                                                                                                                                                                                           
+12  WrkHygiene Hand Gloves (Plastic) -100 pcs. (Pack)                                             - 5           84.70                                             38.12 (9.00)             38.12 (9.00)    423.50    
+    Out of company catalog                                                                                                                                                                                           
+13  3M Scotch Brite Scrub Sponge (2 in 1) - (Unit)                                         9603     6           16.90                                                      9.13 (9.00)       9.13 (9.00)   101.40    
+    Out of company catalog                                                                                                                                                                                           
+14  Pril Dishwash Liquid (Lime. Green) - 500 ml. (Unit)                                    3402     6           87.00                                             46.98 (9.00)             46.98 (9.00)    522.00    
+15  Dettol Liquid Handwash (Original) - 900 ml. (Unit)                                     3401     5           162.70                                            73.22 (9.00)             73.22 (9.00)    813.50    
+16  Himalaya Wellness Hand Sanitizer - 500 ml. (Unit)                                      3401     2           254.00                                            45.72 (9.00)             45.72 (9.00)    508.00    
+17  Fortune Table Napkin (27x30 cm, 1 Ply, Premium) - 100                                  4818     1           1600.00                                           144.00 (9.00)            144.00 (9.00)   1600.00   
+    sheets (Pack of 60)                                                                                                                                                                                              
+18  Fortune Toilet Roll (Premium) - 350 pulls (Pack of 100)                                4818     1           3900.00                                           351.00 (9.00)            351.00 (9.00)   3900.00   
+19  Fortune C-Fold Tissue (Standard) -150 sheets (Pack of 20)                              4818     9           934.00                                            756.54 (9.00)            756.54 (9.00)   8406.00   
+20  Veeba Peanut Butter (Crunchy) - 340 gm. (Pack)                                         2008     12          137.50                                            99.00 (6.00)             99.00 (6.00)    1650.00   
+    Out of company catalog                                                                                                                                                                                           
+21  Unibic Fruit & Nut Cookies - 75 gm. (Pack)                                             1905     10          20.35                                             18.31 (9.00)             18.31 (9.00)    203.50    
+22  Unibic Choconut Cookies - 75 gm. (Pack)                                                1905     10          20.35                                             18.31 (9.00)             18.31 (9.00)    203.50    
+23  Britannia Good Day Cookies (Rich Butter) -100 gm. (Pack)                               1904     10          12.70                                             11.43 (9.00)             11.43 (9.00)    127.00    
+24  Unibic Doosra Jeera Cookies - 75 gm. (Pack)                                            1905     15          12.50                                             16.88 (9.00)             16.88 (9.00)    187.50    
+25  Unibic Cashew Cookies - 75 gm. (Pack)                                                  1905     10          20.35                                             18.31 (9.00)             18.31 (9.00)    203.50    
+26  Unibic Butter Cookies - 75 gm. (Pack)                                                  1905     20          20.35                                             36.63 (9.00)             36.63 (9.00)    407.00    
+27  Unibic Choco Chip Cookies - 75 gm. (Pack)                                              1905     25          25.40                                             57.15 (9.00)             57.15 (9.00)    635.00    
+28  Sunfeast Moms Magic Cashew and Almond - 200 gm.                                        1904     10          29.00                                             26.10 (9.00)             26.10 (9.00)    290.00    
+    (Pack)                                                                                                                                                                                                           
+29  Kellogg's Muesli Nuts Delight - 500 gm. (Pack)                                         1904     6           233.00                                            125.82 (9.00)            125.82 (9.00)   1398.00   
+                                                                                    CGST         SGST                        
+#  Item & Description                                      Hsn  Qty T Price              Amt (%)          Amt (%)    ? Amount
+30 Kellogg's Corn Flakes (Original) - 475 gm. (Unit)       1904 5    142.00  63.90 (9.00)        63.90 (9.00)     710.00     
+31 Kellogg's Muesli Fruit & Nuts - 500 gm. (Pack)          1904 6    235.00  126.90 (9.00)       126.90 (9.00)    1410.00    
+32 Nandini Good Life UHT Milk - 1 It. (Pack of 12)         0402 7    571.40  100.00 (2.50)       100.00 (2.50)    3999.80    
+   Out ol company catalog                                                                                                    
+33 Fanta Soft Drink - 2.25 It. (Pack of 9)                 2202 1    632.80  88.59 (14.00)       88.59 (14.00)    632.80     
+   Out of company catalog                                                                                                    
+34 Paper Boat Juice (Guava) -1 It. (Pack of 12)            2202 1   1024.00  61.44 (6.00)        61.44 (6.00)     1024.00    
+35 Nandini Good Life Slim Skimmed Milk 1 It. (Pack of 12)  0402 7    594.30  104.00 (2.50)       104.00 (2.50)    4160.10    
+   Out of company catalog                                                                                                    
+36 Amul Butter - 500 gm. (Pack)                            0405 8    200.90  96.43 (6.00)        96.43 (6.00)     1607.20    
+   Out of company catalog                                                                                                    
+37 Parle G Original Gluco Biscuits - 140 gm. (Pack)        1905  25    8.50  19.13 (9.00)        19.13 (9.00)     212.50     
+   Out of company catalog                                                                                                    
+38 Britannia Bourbon Biscuits (Chocolate) -120 gm. (Pack)  1905  25   16.90  38.03 (9.00)        38.03 (9.00)     422.50     
+   Out of company catalog                                                                                                    
+39 Britannia Marie Gold Biscuits - 75 gm. (Pack)           1904  15    8.50  11.48 (9.00)        11.48 (9.00)     127.50     
+   Out of company catalog                                                                                                    
+40 Bisleri Mineral Water - 1 Lt. (Unit)                    2201  24   16.90  36.50 (9.00)        36.50 (9.00)     405.60     
+   Out of company catalog                                                                                                    
+41 MTR 3 Minute Breakfast (Poha) - 60 gm. (Pack)           2106  35   17.90  37.59 (6.00)        37.59 (6.00)     626.50     
+   Out of company catalog                                                                                                    
+42 MTR 3 Minute Breakfast (Vegatable Upma) - 60 gm. (Pack) 2106  20   16.90  30.42 (9.00)        30.42 (9.00)     338.00     
+   Out of company catalog                                                                                                    
+Total In Words                                                                   Sub Total                         43601.0    
+fifty thousand eighty-two                                            (6157.2) CGST (6.0%)                         369.43      
+‘Officepulse Technology Private Limited*                             (28651.1) CGST (9.0%)                         2578.6     
+*092463700000289*                                                    (632.8) CGST (14.0%)                          88.59      
+•YESB0000924*                                                        (8159.9) CGST (2.5%)                          204.0      
+Yes Bank - Gandhi Bazaar Branch                                      (6157.2) SGST (6.0%)                         369.43      
+                                                                     (28651.1) SGST (9.0%)                          2578.6    
+                                                                     (632.8) SGST (14.0%)                          88.59      
+                                                                     (8159.9) SGST (2.5%)                          204.0      
+                                                                                    Total GST                      6481.24    
+                                                                                 Discount                              o.O    
+                                                                          Shipping charge                              q.O    
+                                                                                       Total                     T50082.24    
+                                                                                  Balance Due                    ^50082.24    
