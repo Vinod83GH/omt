@@ -8,4 +8,6 @@ urlpatterns = [
     path('/import_stocks',views.process_import_stocks),
     path('/import_stock_out',views.process_import_stock_out),
     path('/category_expenses',views.get_category_wise_expenses),
+    path('/daily_consumables', views.daily_consumables),
+    path('/get_all_data', views.get_all_data),
 ]
