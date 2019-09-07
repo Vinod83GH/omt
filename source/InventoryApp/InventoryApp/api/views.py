@@ -1,5 +1,5 @@
 from django.http import JsonResponse
-from .tasks import process_input_file,process_ocr_image,process_stock_ins
+from .tasks import process_input_file,process_ocr_image,process_stock_ins, process_stock_out_data
 
 from InventoryApp.stock.models import StockOut, StockIn
 from InventoryApp.product_catalogue.models import Product, ProductCategory
@@ -20,6 +20,10 @@ def process_import_stocks(request):
     process_stock_ins()
     return JsonResponse({'message':'Successfully imported stocks data'})
 
+def process_import_stock_out(request):
+    process_stock_out_data()
+    return JsonResponse({'message':'Successfully imported stocks data'})
+
 def process_image_ocr(request):
     process_ocr_image()
     return JsonResponse({'message':'Successfully processed OCR data'})
@@ -38,6 +42,7 @@ def get_category_wise_expenses(request):
         out_date = datetime.strptime(item.get('date'), "%m/%Y")
         all_items = list(StockOut.objects.filter(out_date__year=out_date.year, out_date__month=out_date.month).values('product_item__category__desc').annotate(grand_category_total = Sum('total')))
         # print('Date Categories - {}'.format(all_items))
+        monthly_obj = {}
         for category in all_items:
             monthly_obj['date']=item.get('date')
             monthly_obj[category.get('product_item__category__desc')]=category.get('grand_category_total')
